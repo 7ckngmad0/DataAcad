@@ -1,0 +1,64 @@
+customer_id,name,age,city,signup_date,monthly_spend
+1,Liam Lopez,30,manila ,2024-01-01,1256.81
+2,Ivy Tan,40,Davao City,2024-01-06,1097.49
+3,Ines Smith,56,Manila,2024-01-11,1050.17
+4,Uma Kim,,Cebu,2024-01-16,925.18
+5,Omar Tan,46,Cebu,2024-01-21,1118.64
+6,Liam Tan,49,Manila,2024-01-26,
+7,Jon Reyes,29,Davao,2024-01-31,1748.81
+8,Yusuf Garcia,21,Davao City,2024-02-05,1497.63
+9,Ana Tan,thirty,manila ,2024-02-10,1159.79
+10,Ivy Reyes,63,Davao,2024-02-15,1073.01
+11,Uma Tan,63,Davao City,2024-02-20,1384.52
+12,Zoe Garcia,35,Davao,2024-02-25,1782.68
+13,Ben Tan,58,Cebu,2024-03-01,"1,450.00"
+14,Jon Kim,31,Davao City,2024-03-06,683.98
+15,Gia Kim,33,Cebu,2024-03-11,1458.95
+16,Hiro Garcia,53,Davao,2024-03-16,1512.1
+17,Jon Smith,66,Davao,2024-03-21,1859.77
+18,Victor Reyes,,CEBU,2024-03-26,1125.5
+19,Xena Garcia,67,manila ,2024-03-31,1241.57
+20,Maya Kim,69,Davao,2024-04-05,1335.07
+21,Maya Lopez,19,manila ,2024/04/10,970.81
+22,Yusuf Garcia,39,Cebu,2024-04-15,943.63
+23,Uma Reyes,42,CEBU,2024-04-20,1319.81
+24,Pia Kim,27,manila ,2024-04-25,737.09
+25,Ivy Lopez,29,Davao,2024-04-30,804.89
+26,Wen Kim,230,manila ,2024-05-05,1444.7
+27,Felix Lopez,27,Manila,2024-05-10,1349.35
+28,Sam Tan,43,Davao,2024-05-15,1574.92
+29,Jon Smith,43,Davao City,2024-05-20,1338.97
+30,Quinn Smith,52,manila ,2024-05-25,1203.13
+31,Carla Lopez,46,CEBU,2024-05-30,1586.72
+32,Hiro Garcia,20,Davao City,2024-06-04,1073.14
+33,Pia Kim,41,Cebu,2024-06-09,1100.0
+34,Rosa Smith,35,Cebu,2024-06-14,
+35,Maya Garcia,24,Davao,2024-06-19,1335.14
+36,Sam Tan,69,CEBU,2024-06-24,1180.01
+37,Marco Reyes,46,Manila,2024-06-29,754.49
+38,Lena Kim,68,Manila,2024-07-04,1120.02
+39,Carla Reyes,65,Cebu,2024-07-09,1190.53
+40,Wen Kim,69,Cebu,2024-07-14,1234.45
+41,Jon Garcia,30,CEBU,2024-07-19,1065.18
+42,Wen Lopez,,Cebu,2024-07-24,1351.68
+43,Tara Reyes,20,Manila,2024-07-29,716.84
+44,Zoe Kim,44,Davao,2024-08-03,1324.73
+45,Liam Smith,63,Cebu,2024-08-08,1737.86
+46,Uma Smith,47,Manila,2024-08-13,1017.96
+47,Zoe Garcia,28,CEBU,2024-08-18,1217.28
+48,Yusuf Smith,21,Cebu,2024-08-23,1125.89
+49,Jon Reyes,41,CEBU,2024-08-28,98000.0
+50,Maya Smith,59,Davao City,2024-09-02,891.46
+51,Lena Lopez,65,manila ,2024-09-07,1797.47
+52,Tara Lopez,56,Davao,2024-09-12,1315.74
+53,Ana Garcia,41,Manila,15-11-2024,998.76
+54,Liam Kim,54,Davao,2024-09-22,964.61
+55,Uma Garcia,58,Cebu,2024-09-27,1218.45
+56,Felix Smith,37,Davao,2024-10-02,549.7
+57,Sam Reyes,31,Manila,2024-10-07,1515.85
+58,Ben Tan,31,CEBU,2024-10-12,1045.84
+59,Felix Lopez,56,manila ,2024-10-17,1316.64
+60,Kai Smith,60,Cebu,2024-10-22,1330.68
+3,Ines Smith,56,Manila,2024-01-11,1050.17
+11,Uma Tan,63,Davao City,2024-02-20,1384.52
+31,Carla Lopez,46,CEBU,2024-05-30,1586.72
