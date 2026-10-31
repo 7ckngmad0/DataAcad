@@ -1,0 +1,423 @@
+date,category,amount,payment_method
+2025-01-01,Rent,650.0,transfer
+2025-01-02,Subscriptions,10.39,cash
+2025-01-04,Eating Out,27.6,card
+2025-01-05,Groceries,27.65,card
+2025-01-05,Transport,7.77,card
+2025-01-05,Transport,9.5,transfer
+2025-01-06,Subscriptions,13.96,card
+2025-01-06,Groceries,28.98,card
+2025-01-06,Transport,5.74,card
+2025-01-07,Utilities,39.96,card
+2025-01-08,Transport,6.36,cash
+2025-01-09,Utilities,43.87,card
+2025-01-09,Entertainment,19.17,card
+2025-01-11,Transport,11.65,card
+2025-01-11,Eating Out,17.98,cash
+2025-01-11,Transport,5.05,transfer
+2025-01-12,Groceries,36.23,card
+2025-01-12,Transport,6.02,transfer
+2025-01-12,Transport,6.63,card
+2025-01-12,Eating Out,21.61,transfer
+2025-01-13,Entertainment,11.58,card
+2025-01-15,Groceries,50.59,card
+2025-01-15,Eating Out,8.7,card
+2025-01-16,Entertainment,28.17,card
+2025-01-17,Transport,7.24,card
+2025-01-17,Eating Out,20.69,transfer
+2025-01-17,Eating Out,21.06,cash
+2025-01-19,Subscriptions,8.19,transfer
+2025-01-19,Shopping,51.88,cash
+2025-01-19,Groceries,62.72,transfer
+2025-01-21,Health,38.88,transfer
+2025-01-23,Transport,7.59,card
+2025-01-27,Groceries,42.68,cash
+2025-01-27,Groceries,44.67,card
+2025-01-28,Groceries,51.89,transfer
+2025-01-29,Utilities,54.47,transfer
+2025-01-29,Eating Out,14.13,card
+2025-01-30,Groceries,22.68,card
+2025-02-01,Rent,650.0,transfer
+2025-02-01,Groceries,31.99,transfer
+2025-02-01,Rent,650.0,transfer
+2025-02-04,Entertainment,21.23,cash
+2025-02-04,Groceries,33.5,cash
+2025-02-04,Subscriptions,11.22,cash
+2025-02-05,Subscriptions,13.87,card
+2025-02-07,Groceries,34.71,card
+2025-02-08,Groceries,42.92,card
+2025-02-08,Groceries,42.08,cash
+2025-02-08,Groceries,42.08,transfer
+2025-02-09,Groceries,39.45,transfer
+2025-02-09,Groceries,23.18,card
+2025-02-10,Groceries,37.29,card
+2025-02-12,Groceries,33.03,card
+2025-02-12,Eating Out,22.34,cash
+2025-02-16,Eating Out,11.9,card
+2025-02-17,Eating Out,21.29,card
+2025-02-19,Utilities,71.98,card
+2025-02-19,Utilities,52.69,card
+2025-02-20,Transport,8.96,card
+2025-02-21,Transport,6.61,cash
+2025-02-22,Eating Out,6.98,card
+2025-02-22,Transport,1.0,card
+2025-02-22,Groceries,25.75,card
+2025-02-23,Entertainment,11.28,cash
+2025-02-24,Eating Out,23.59,card
+2025-02-24,Health,25.41,transfer
+2025-02-25,Eating Out,23.42,card
+2025-02-26,Eating Out,21.5,cash
+2025-02-27,Transport,5.99,card
+2025-02-27,Shopping,84.57,card
+2025-02-27,Subscriptions,11.87,card
+2025-02-28,Transport,7.46,card
+2025-02-28,Eating Out,18.88,card
+2025-03-01,Groceries,52.72,card
+2025-03-01,Rent,650.0,transfer
+2025-03-02,Transport,5.29,card
+2025-03-03,Shopping,75.23,transfer
+2025-03-03,Health,37.31,card
+2025-03-04,Transport,9.06,cash
+2025-03-05,Groceries,30.85,card
+2025-03-06,Eating Out,29.78,transfer
+2025-03-07,Subscriptions,8.88,card
+2025-03-09,Utilities,31.0,card
+2025-03-09,Entertainment,30.55,cash
+2025-03-09,Transport,5.21,cash
+2025-03-10,Groceries,51.56,card
+2025-03-10,Groceries,24.17,transfer
+2025-03-10,Groceries,45.18,cash
+2025-03-11,Groceries,28.46,card
+2025-03-11,Transport,11.31,card
+2025-03-12,Utilities,48.82,card
+2025-03-13,Groceries,55.85,cash
+2025-03-14,Groceries,47.54,cash
+2025-03-15,Subscriptions,14.87,card
+2025-03-15,Transport,4.37,cash
+2025-03-15,Subscriptions,9.15,card
+2025-03-15,Eating Out,15.96,cash
+2025-03-16,Transport,6.01,card
+2025-03-17,Transport,6.19,cash
+2025-03-18,Transport,9.4,card
+2025-03-20,Utilities,40.03,cash
+2025-03-21,Eating Out,10.12,card
+2025-03-21,Transport,5.27,transfer
+2025-03-22,Eating Out,20.18,cash
+2025-03-23,Utilities,37.76,card
+2025-03-23,Transport,1.0,card
+2025-03-23,Transport,5.73,cash
+2025-03-24,Entertainment,26.17,card
+2025-03-24,Groceries,46.41,cash
+2025-03-26,Transport,10.15,card
+2025-03-27,Entertainment,21.89,card
+2025-03-28,Eating Out,6.66,card
+2025-03-28,Transport,7.06,card
+2025-03-30,Transport,7.42,card
+2025-03-31,Eating Out,23.58,card
+2025-03-31,Groceries,43.93,transfer
+2025-04-01,Rent,650.0,transfer
+2025-04-03,Groceries,11.0,card
+2025-04-06,Groceries,37.47,cash
+2025-04-06,Transport,6.26,card
+2025-04-07,Health,46.91,transfer
+2025-04-07,Entertainment,22.6,cash
+2025-04-07,Transport,8.19,transfer
+2025-04-08,Groceries,35.77,transfer
+2025-04-11,Groceries,48.64,card
+2025-04-11,Eating Out,14.14,cash
+2025-04-12,Subscriptions,12.51,card
+2025-04-12,Utilities,55.35,card
+2025-04-12,Eating Out,17.6,card
+2025-04-12,Entertainment,17.61,cash
+2025-04-13,Transport,7.68,cash
+2025-04-14,Entertainment,8.74,transfer
+2025-04-16,Eating Out,23.3,card
+2025-04-17,Shopping,10.28,card
+2025-04-18,Transport,7.85,card
+2025-04-18,Subscriptions,5.91,cash
+2025-04-18,Eating Out,12.2,card
+2025-04-19,Transport,5.49,card
+2025-04-20,Subscriptions,9.01,card
+2025-04-20,Groceries,29.91,card
+2025-04-21,Groceries,21.46,card
+2025-04-21,Entertainment,1.0,card
+2025-04-24,Transport,6.08,card
+2025-04-24,Transport,3.0,card
+2025-04-25,Transport,4.76,transfer
+2025-04-25,Eating Out,22.75,card
+2025-04-26,Utilities,60.6,card
+2025-04-26,Groceries,27.45,card
+2025-04-26,Transport,4.41,card
+2025-04-26,Groceries,42.93,transfer
+2025-04-28,Transport,2.63,card
+2025-04-29,Utilities,60.46,card
+2025-04-30,Eating Out,24.37,card
+2025-04-30,Eating Out,17.69,card
+2025-04-30,Entertainment,30.24,card
+2025-04-30,Eating Out,11.62,cash
+2025-05-01,Rent,650.0,transfer
+2025-05-02,Eating Out,20.82,cash
+2025-05-02,Entertainment,25.77,transfer
+2025-05-02,Transport,1.23,card
+2025-05-03,Groceries,44.79,transfer
+2025-05-03,Health,46.58,cash
+2025-05-04,Subscriptions,11.58,transfer
+2025-05-05,Transport,8.9,card
+2025-05-05,Eating Out,14.72,card
+2025-05-06,Transport,8.63,card
+2025-05-07,Entertainment,34.46,cash
+2025-05-07,Transport,11.58,card
+2025-05-09,Groceries,35.56,card
+2025-05-13,Eating Out,22.5,cash
+2025-05-14,Subscriptions,5.27,card
+2025-05-15,Groceries,31.27,card
+2025-05-15,Eating Out,20.61,cash
+2025-05-16,Groceries,52.28,card
+2025-05-18,Transport,1.0,card
+2025-05-20,Eating Out,13.79,transfer
+2025-05-20,Shopping,55.94,card
+2025-05-22,Subscriptions,10.67,card
+2025-05-26,Transport,7.97,transfer
+2025-05-28,Transport,3.61,card
+2025-05-30,Eating Out,14.99,transfer
+2025-05-30,Eating Out,25.33,transfer
+2025-05-31,Utilities,29.0,card
+2025-05-31,Groceries,47.65,cash
+2025-06-01,Eating Out,14.48,transfer
+2025-06-01,Entertainment,18.93,card
+2025-06-01,Rent,650.0,transfer
+2025-06-03,Entertainment,24.9,transfer
+2025-06-04,Transport,3.44,card
+2025-06-05,Groceries,45.23,card
+2025-06-05,Transport,8.08,transfer
+2025-06-06,Eating Out,4.92,card
+2025-06-06,Transport,7.96,card
+2025-06-06,Transport,3.27,card
+2025-06-07,Transport,1.3,transfer
+2025-06-10,Groceries,15.55,transfer
+2025-06-11,Transport,8.99,transfer
+2025-06-12,Transport,7.17,card
+2025-06-13,Subscriptions,14.57,cash
+2025-06-15,Health,40.2,card
+2025-06-16,Eating Out,8.02,card
+2025-06-18,Groceries,27.01,transfer
+2025-06-20,Transport,8.76,cash
+2025-06-20,Groceries,21.08,card
+2025-06-21,Subscriptions,11.92,cash
+2025-06-24,Transport,4.74,card
+2025-06-24,Groceries,55.73,card
+2025-06-24,Subscriptions,9.55,card
+2025-06-26,Transport,5.35,card
+2025-06-28,Transport,5.19,card
+2025-06-28,Shopping,41.57,transfer
+2025-06-29,Transport,5.39,card
+2025-06-30,Utilities,34.14,card
+2025-07-01,Rent,650.0,transfer
+2025-07-03,Entertainment,12.7,transfer
+2025-07-03,Utilities,64.26,card
+2025-07-03,Transport,2.55,cash
+2025-07-04,Groceries,35.71,card
+2025-07-04,Entertainment,20.95,card
+2025-07-05,Transport,2.69,cash
+2025-07-05,Eating Out,2.02,card
+2025-07-06,Transport,3.57,card
+2025-07-07,Groceries,51.5,card
+2025-07-07,Transport,6.34,cash
+2025-07-07,Transport,4.3,card
+2025-07-08,Transport,7.5,card
+2025-07-09,Transport,7.35,card
+2025-07-09,Transport,4.13,cash
+2025-07-12,Eating Out,22.39,card
+2025-07-13,Shopping,68.15,cash
+2025-07-13,Entertainment,19.63,card
+2025-07-13,Transport,4.15,card
+2025-07-14,Transport,9.98,card
+2025-07-14,Utilities,69.72,cash
+2025-07-15,Transport,5.87,card
+2025-07-17,Eating Out,12.28,card
+2025-07-17,Groceries,16.79,card
+2025-07-18,Entertainment,12.41,cash
+2025-07-18,Entertainment,6.33,card
+2025-07-20,Eating Out,1.0,transfer
+2025-07-22,Transport,1.88,card
+2025-07-24,Groceries,63.15,transfer
+2025-07-24,Utilities,52.44,card
+2025-07-24,Health,2.48,cash
+2025-07-24,Eating Out,15.48,transfer
+2025-07-27,Entertainment,19.39,card
+2025-07-29,Subscriptions,8.71,card
+2025-07-29,Subscriptions,11.28,cash
+2025-07-30,Subscriptions,8.67,card
+2025-07-31,Eating Out,16.49,cash
+2025-07-31,Entertainment,27.51,card
+2025-08-01,Rent,650.0,transfer
+2025-08-01,Shopping,48.86,transfer
+2025-08-01,Transport,7.6,card
+2025-08-02,Eating Out,27.4,transfer
+2025-08-03,Subscriptions,9.61,card
+2025-08-03,Groceries,9.87,card
+2025-08-05,Eating Out,3.88,card
+2025-08-05,Transport,7.36,card
+2025-08-06,Transport,6.59,transfer
+2025-08-06,Transport,10.07,card
+2025-08-06,Groceries,32.53,card
+2025-08-07,Groceries,21.08,card
+2025-08-08,Health,1.0,cash
+2025-08-08,Transport,7.73,card
+2025-08-09,Groceries,35.36,cash
+2025-08-10,Eating Out,17.86,cash
+2025-08-12,Groceries,38.35,card
+2025-08-12,Groceries,42.15,card
+2025-08-16,Entertainment,15.06,transfer
+2025-08-17,Eating Out,11.35,cash
+2025-08-17,Transport,6.86,card
+2025-08-18,Groceries,20.56,card
+2025-08-20,Eating Out,1.0,card
+2025-08-21,Entertainment,33.7,card
+2025-08-23,Transport,9.79,card
+2025-08-23,Subscriptions,10.79,card
+2025-08-24,Groceries,36.57,cash
+2025-08-24,Utilities,64.73,card
+2025-08-25,Transport,5.87,card
+2025-08-25,Entertainment,27.36,cash
+2025-08-27,Eating Out,21.0,transfer
+2025-08-30,Eating Out,18.07,card
+2025-08-30,Transport,1.0,card
+2025-08-31,Transport,6.72,card
+2025-08-31,Groceries,36.16,cash
+2025-08-31,Transport,5.84,card
+2025-08-31,Eating Out,22.02,cash
+2025-08-31,Subscriptions,11.0,card
+2025-09-01,Entertainment,12.59,card
+2025-09-01,Rent,650.0,transfer
+2025-09-02,Transport,9.07,transfer
+2025-09-04,Entertainment,22.73,card
+2025-09-04,Transport,1.0,card
+2025-09-04,Eating Out,9.9,transfer
+2025-09-05,Eating Out,13.33,card
+2025-09-05,Subscriptions,11.14,cash
+2025-09-06,Utilities,45.06,transfer
+2025-09-07,Transport,6.54,card
+2025-09-08,Transport,2.62,cash
+2025-09-09,Groceries,29.29,card
+2025-09-11,Health,32.23,card
+2025-09-12,Transport,1.28,transfer
+2025-09-13,Entertainment,21.69,card
+2025-09-15,Transport,4.39,card
+2025-09-15,Groceries,43.4,cash
+2025-09-18,Subscriptions,14.42,card
+2025-09-19,Transport,4.08,card
+2025-09-20,Transport,11.71,card
+2025-09-20,Eating Out,1.0,card
+2025-09-20,Groceries,19.99,cash
+2025-09-22,Entertainment,8.32,card
+2025-09-23,Transport,7.23,cash
+2025-09-23,Shopping,21.76,transfer
+2025-09-24,Transport,1.0,card
+2025-09-24,Shopping,5.65,cash
+2025-09-25,Eating Out,7.29,card
+2025-09-26,Transport,8.62,card
+2025-09-26,Shopping,21.76,card
+2025-09-27,Groceries,18.62,card
+2025-09-27,Entertainment,7.58,card
+2025-09-27,Shopping,30.25,card
+2025-09-30,Subscriptions,13.2,card
+2025-10-01,Transport,4.31,card
+2025-10-01,Rent,650.0,transfer
+2025-10-03,Groceries,71.71,card
+2025-10-03,Transport,3.05,card
+2025-10-03,Transport,5.1,cash
+2025-10-04,Transport,6.29,card
+2025-10-05,Transport,7.43,card
+2025-10-05,Transport,5.98,card
+2025-10-08,Subscriptions,10.4,card
+2025-10-08,Transport,6.12,cash
+2025-10-12,Transport,1.0,card
+2025-10-13,Eating Out,27.77,card
+2025-10-13,Transport,7.33,card
+2025-10-14,Groceries,48.11,card
+2025-10-14,Entertainment,19.74,cash
+2025-10-14,Shopping,33.46,card
+2025-10-15,Transport,6.9,card
+2025-10-17,Entertainment,24.2,card
+2025-10-18,Transport,9.33,card
+2025-10-19,Transport,7.45,card
+2025-10-20,Transport,4.77,cash
+2025-10-20,Groceries,25.38,card
+2025-10-20,Transport,7.99,transfer
+2025-10-20,Entertainment,27.79,card
+2025-10-21,Subscriptions,11.95,card
+2025-10-22,Entertainment,12.99,card
+2025-10-22,Transport,5.02,card
+2025-10-23,Transport,1.96,card
+2025-10-24,Entertainment,22.11,card
+2025-10-25,Subscriptions,13.09,card
+2025-10-26,Groceries,22.46,card
+2025-10-27,Groceries,32.58,cash
+2025-10-29,Utilities,65.11,card
+2025-10-29,Transport,2.64,cash
+2025-10-31,Health,1.0,cash
+2025-10-31,Transport,5.98,card
+2025-10-31,Entertainment,22.57,card
+2025-11-01,Rent,650.0,transfer
+2025-11-01,Groceries,54.95,cash
+2025-11-01,Utilities,43.29,card
+2025-11-02,Transport,3.65,card
+2025-11-02,Transport,6.3,card
+2025-11-03,Entertainment,15.84,card
+2025-11-04,Transport,1.0,card
+2025-11-05,Groceries,30.61,card
+2025-11-07,Eating Out,22.95,transfer
+2025-11-07,Eating Out,9.39,transfer
+2025-11-14,Eating Out,22.82,card
+2025-11-15,Transport,10.28,card
+2025-11-16,Eating Out,19.18,transfer
+2025-11-17,Transport,2.81,cash
+2025-11-19,Groceries,39.89,card
+2025-11-20,Transport,1.32,cash
+2025-11-20,Health,8.13,cash
+2025-11-21,Groceries,48.46,cash
+2025-11-22,Subscriptions,9.27,cash
+2025-11-23,Transport,10.27,cash
+2025-11-23,Shopping,78.87,card
+2025-11-24,Utilities,11.24,card
+2025-11-26,Transport,1.35,card
+2025-11-27,Transport,8.19,card
+2025-11-27,Groceries,46.14,card
+2025-11-28,Subscriptions,8.97,card
+2025-11-30,Subscriptions,12.46,card
+2025-12-01,Rent,650.0,transfer
+2025-12-02,Shopping,45.34,card
+2025-12-02,Transport,4.71,card
+2025-12-04,Entertainment,50.86,card
+2025-12-05,Groceries,27.09,card
+2025-12-05,Entertainment,37.9,card
+2025-12-05,Transport,6.72,card
+2025-12-06,Subscriptions,12.13,transfer
+2025-12-07,Health,61.8,card
+2025-12-11,Transport,4.08,card
+2025-12-11,Transport,1.0,card
+2025-12-13,Groceries,38.68,card
+2025-12-15,Groceries,24.06,card
+2025-12-15,Groceries,16.68,cash
+2025-12-16,Eating Out,7.12,cash
+2025-12-16,Subscriptions,10.86,transfer
+2025-12-16,Utilities,47.04,transfer
+2025-12-17,Transport,5.14,card
+2025-12-17,Groceries,16.37,cash
+2025-12-17,Transport,5.08,card
+2025-12-17,Transport,11.09,card
+2025-12-17,Entertainment,14.31,transfer
+2025-12-19,Groceries,22.7,card
+2025-12-20,Eating Out,11.86,card
+2025-12-20,Utilities,48.22,card
+2025-12-20,Groceries,23.27,transfer
+2025-12-21,Transport,10.73,card
+2025-12-23,Subscriptions,9.42,card
+2025-12-23,Groceries,25.71,card
+2025-12-24,Eating Out,18.25,card
+2025-12-26,Eating Out,11.71,card
+2025-12-26,Eating Out,19.85,card
+2025-12-27,Health,43.18,card
+2025-12-28,Transport,5.29,cash
+2025-12-30,Eating Out,18.7,card

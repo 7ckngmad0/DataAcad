@@ -1,0 +1,1501 @@
+order_id,order_date,region,category,product,units,unit_price,discount,revenue,customer_id
+50491,2024-01-01,West,Furniture,Desk Lamp,2,25.0,0.0,50.0,200
+50636,2024-01-01,North,Office Supplies,Notebook,6,4.5,0.2,21.6,151
+51252,2024-01-02,West,Furniture,Bookshelf,1,89.0,0.0,89.0,176
+50395,2024-01-03,South,Electronics,Keyboard,1,45.0,0.0,45.0,159
+51015,2024-01-03,South,Office Supplies,Stapler,4,9.0,0.0,36.0,236
+50413,2024-01-04,North,Office Supplies,Stapler,11,9.0,0.0,99.0,28
+51231,2024-01-05,North,Electronics,Laptop Stand,1,29.0,0.0,29.0,257
+50900,2024-01-05,North,Furniture,Desk Lamp,3,25.0,0.0,75.0,265
+50462,2024-01-05,West,Office Supplies,Stapler,9,9.0,0.1,72.9,40
+50638,2024-01-05,East,Electronics,Keyboard,2,45.0,0.0,90.0,12
+50145,2024-01-06,West,Electronics,Monitor,3,189.0,0.0,567.0,12
+50792,2024-01-07,North,Furniture,Bookshelf,1,89.0,0.0,89.0,108
+50881,2024-01-09,South,Electronics,Keyboard,1,45.0,0.0,45.0,243
+50730,2024-01-10,South,Electronics,Headphones,1,59.0,0.2,47.2,76
+50954,2024-01-12,North,Office Supplies,Pens (10),11,6.0,0.0,66.0,69
+50105,2024-01-12,North,Office Supplies,Pens (10),1,6.0,0.0,6.0,255
+51266,2024-01-12,North,Electronics,Keyboard,1,45.0,0.0,45.0,155
+50310,2024-01-13,North,Electronics,Laptop Stand,2,29.0,0.0,58.0,217
+50304,2024-01-14,North,Electronics,Webcam,2,39.0,0.0,78.0,280
+50499,2024-01-15,East,Office Supplies,Planner,1,14.0,0.0,14.0,104
+50978,2024-01-16,North,Office Supplies,Paper (500),5,7.5,0.0,37.5,39
+50986,2024-01-16,North,Office Supplies,Paper (500),11,7.5,0.0,82.5,163
+50168,2024-01-17,North,Furniture,Bookshelf,2,89.0,0.2,142.4,181
+50140,2024-01-17,East,Office Supplies,Stapler,2,9.0,0.0,18.0,24
+51495,2024-01-17,South,Electronics,Headphones,2,59.0,0.0,118.0,86
+50922,2024-01-18,East,Office Supplies,Planner,11,14.0,0.0,154.0,47
+50981,2024-01-20,East,Furniture,Desk Lamp,2,25.0,0.1,45.0,171
+51327,2024-01-20,South,Office Supplies,Planner,9,14.0,0.1,113.4,235
+51214,2024-01-20,West,Electronics,Monitor,1,189.0,0.0,189.0,135
+50768,2024-01-21,West,Furniture,Desk Chair,1,149.0,0.0,149.0,52
+50201,2024-01-21,East,Electronics,Headphones,3,59.0,0.2,141.6,233
+51107,2024-01-21,East,Electronics,Laptop Stand,3,29.0,0.0,87.0,7
+50738,2024-01-21,East,Office Supplies,Planner,3,14.0,0.0,42.0,70
+51285,2024-01-22,North,Office Supplies,Paper (500),5,7.5,0.0,37.5,176
+50850,2024-01-22,West,Electronics,Laptop Stand,1,29.0,0.0,29.0,262
+51357,2024-01-24,North,Office Supplies,Pens (10),1,6.0,0.0,6.0,238
+50062,2024-01-25,East,Electronics,Webcam,1,39.0,0.0,39.0,111
+50164,2024-01-26,East,Furniture,Bookshelf,3,89.0,0.2,213.6,120
+51152,2024-01-27,South,Office Supplies,Paper (500),10,7.5,0.0,75.0,35
+50812,2024-01-27,East,Electronics,Laptop Stand,1,29.0,0.0,29.0,112
+51401,2024-01-29,South,Furniture,Bookshelf,2,89.0,0.1,160.2,188
+50550,2024-01-30,East,Office Supplies,Stapler,4,9.0,0.0,36.0,201
+50248,2024-01-30,East,Furniture,Desk Lamp,3,25.0,0.1,67.5,277
+51283,2024-01-31,North,Furniture,Bookshelf,2,89.0,0.0,178.0,53
+50620,2024-01-31,North,Office Supplies,Pens (10),3,6.0,0.0,18.0,198
+50267,2024-01-31,North,Electronics,Headphones,1,59.0,0.0,59.0,172
+51239,2024-01-31,North,Office Supplies,Pens (10),7,6.0,0.1,37.8,293
+51286,2024-02-01,West,Electronics,Headphones,1,59.0,0.0,59.0,88
+50908,2024-02-02,North,Electronics,Monitor,2,189.0,0.0,378.0,107
+50437,2024-02-02,North,Furniture,Desk Lamp,3,25.0,0.2,60.0,160
+50456,2024-02-02,East,Office Supplies,Pens (10),5,6.0,0.1,27.0,78
+50175,2024-02-03,South,Electronics,Laptop Stand,1,29.0,0.0,29.0,282
+51254,2024-02-04,West,Furniture,Desk Lamp,1,25.0,0.0,25.0,108
+50823,2024-02-04,East,Electronics,Keyboard,1,45.0,0.0,45.0,202
+51074,2024-02-04,North,Office Supplies,Paper (500),10,7.5,0.0,75.0,254
+50725,2024-02-05,West,Office Supplies,Stapler,7,9.0,0.0,63.0,79
+51366,2024-02-05,North,Electronics,Monitor,3,189.0,0.0,567.0,65
+51425,2024-02-05,West,Office Supplies,Paper (500),8,7.5,0.1,54.0,54
+51035,2024-02-05,East,Office Supplies,Pens (10),3,6.0,0.0,18.0,68
+50733,2024-02-06,East,Office Supplies,Notebook,10,4.5,0.2,36.0,267
+51439,2024-02-07,South,Office Supplies,Paper (500),1,7.5,0.1,6.75,8
+50599,2024-02-07,East,Furniture,Standing Desk,1,329.0,0.0,329.0,143
+50920,2024-02-08,South,Office Supplies,Paper (500),8,7.5,0.0,60.0,119
+50400,2024-02-08,North,Furniture,Desk Chair,3,149.0,0.0,447.0,182
+50624,2024-02-09,North,Furniture,Desk Chair,2,149.0,0.2,238.4,9
+50699,2024-02-10,West,Electronics,Webcam,2,39.0,0.2,62.4,97
+50377,2024-02-10,West,Office Supplies,Stapler,5,9.0,0.0,45.0,25
+50921,2024-02-10,West,Furniture,Standing Desk,3,329.0,0.1,888.3,147
+50209,2024-02-11,East,Office Supplies,Notebook,6,4.5,0.0,27.0,68
+50531,2024-02-12,West,Electronics,Laptop Stand,3,29.0,0.2,69.6,14
+50026,2024-02-12,East,Office Supplies,Stapler,4,9.0,0.0,36.0,1
+50858,2024-02-12,North,Office Supplies,Stapler,10,9.0,0.2,72.0,172
+50265,2024-02-12,South,Electronics,Keyboard,3,45.0,0.1,121.5,20
+50546,2024-02-12,North,Office Supplies,Stapler,5,9.0,0.0,45.0,75
+50993,2024-02-13,North,Electronics,Keyboard,2,45.0,0.0,90.0,203
+50853,2024-02-13,North,Office Supplies,Paper (500),3,7.5,0.0,22.5,172
+50371,2024-02-13,North,Office Supplies,Stapler,11,9.0,0.1,89.1,218
+50942,2024-02-13,South,Office Supplies,Pens (10),7,6.0,0.2,33.6,219
+50021,2024-02-15,North,Electronics,Monitor,3,189.0,0.2,453.6,275
+50187,2024-02-16,North,Office Supplies,Stapler,1,9.0,0.1,8.1,268
+50610,2024-02-16,North,Electronics,Webcam,2,39.0,0.0,78.0,134
+50779,2024-02-16,West,Electronics,Monitor,2,189.0,0.0,378.0,265
+50676,2024-02-16,East,Electronics,Webcam,1,39.0,0.1,35.1,209
+50764,2024-02-17,West,Furniture,Desk Lamp,2,25.0,0.1,45.0,195
+51438,2024-02-17,North,Office Supplies,Stapler,6,9.0,0.0,54.0,263
+50581,2024-02-18,West,Office Supplies,Planner,5,14.0,0.0,70.0,163
+50802,2024-02-18,East,Electronics,Keyboard,2,45.0,0.1,81.0,26
+50872,2024-02-18,South,Electronics,Headphones,1,59.0,0.0,59.0,38
+50158,2024-02-18,South,Electronics,Webcam,1,39.0,0.0,39.0,224
+50015,2024-02-18,West,Furniture,Bookshelf,2,89.0,0.0,178.0,22
+50474,2024-02-19,West,Electronics,Headphones,2,59.0,0.1,106.2,236
+50952,2024-02-19,North,Electronics,Keyboard,2,45.0,0.2,72.0,70
+50419,2024-02-19,North,Office Supplies,Planner,2,14.0,0.0,28.0,12
+50882,2024-02-19,North,Electronics,Keyboard,3,45.0,0.0,135.0,108
+51160,2024-02-19,West,Electronics,Webcam,1,39.0,0.0,39.0,50
+50494,2024-02-20,South,Office Supplies,Stapler,10,9.0,0.0,90.0,186
+51228,2024-02-20,West,Electronics,Laptop Stand,2,29.0,0.2,46.4,35
+50471,2024-02-20,East,Furniture,Desk Lamp,2,25.0,0.0,50.0,190
+50179,2024-02-21,North,Office Supplies,Paper (500),3,7.5,0.0,22.5,229
+51129,2024-02-21,North,Office Supplies,Notebook,2,4.5,0.0,9.0,263
+51008,2024-02-21,South,Office Supplies,Planner,8,14.0,0.1,100.8,235
+50194,2024-02-24,East,Office Supplies,Planner,7,14.0,0.0,98.0,176
+50511,2024-02-24,South,Furniture,Standing Desk,3,329.0,0.1,888.3,84
+50910,2024-02-24,East,Electronics,Webcam,2,39.0,0.2,62.4,270
+50170,2024-02-25,North,Furniture,Desk Lamp,1,25.0,0.2,20.0,169
+50190,2024-02-25,North,Office Supplies,Stapler,1,9.0,0.2,7.2,287
+51446,2024-02-25,North,Furniture,Desk Lamp,2,25.0,0.1,45.0,47
+50349,2024-02-26,South,Electronics,Webcam,2,39.0,0.1,70.2,207
+51168,2024-02-27,South,Office Supplies,Notebook,6,4.5,0.0,27.0,12
+50001,2024-02-28,East,Furniture,Bookshelf,3,89.0,0.1,240.3,188
+50559,2024-02-29,East,Office Supplies,Paper (500),9,7.5,0.0,67.5,153
+50251,2024-02-29,East,Office Supplies,Notebook,10,4.5,0.0,45.0,199
+50665,2024-02-29,South,Office Supplies,Pens (10),5,6.0,0.0,30.0,248
+50300,2024-02-29,South,Furniture,Bookshelf,3,89.0,0.0,267.0,141
+51350,2024-03-02,North,Electronics,Headphones,1,59.0,0.0,59.0,58
+51220,2024-03-03,West,Furniture,Standing Desk,2,329.0,0.0,658.0,90
+51315,2024-03-05,East,Electronics,Monitor,3,189.0,0.0,567.0,85
+50518,2024-03-05,South,Office Supplies,Pens (10),9,6.0,0.0,54.0,85
+50071,2024-03-05,South,Office Supplies,Stapler,8,9.0,0.1,64.8,244
+50795,2024-03-05,West,Electronics,Laptop Stand,2,29.0,0.0,58.0,88
+50627,2024-03-06,North,Furniture,Desk Chair,1,149.0,0.0,149.0,207
+51488,2024-03-06,West,Office Supplies,Stapler,2,9.0,0.0,18.0,33
+50020,2024-03-06,North,Office Supplies,Pens (10),9,6.0,0.0,54.0,267
+50272,2024-03-06,East,Office Supplies,Planner,5,14.0,0.0,70.0,32
+51449,2024-03-07,East,Furniture,Standing Desk,1,329.0,0.2,263.2,43
+50677,2024-03-09,West,Office Supplies,Pens (10),9,6.0,0.0,54.0,59
+50551,2024-03-10,West,Furniture,Desk Lamp,2,25.0,0.1,45.0,259
+50989,2024-03-10,South,Office Supplies,Notebook,8,4.5,0.0,36.0,209
+50394,2024-03-10,South,Office Supplies,Pens (10),1,6.0,0.1,5.4,196
+51491,2024-03-11,West,Office Supplies,Pens (10),3,6.0,0.1,16.2,262
+50240,2024-03-12,East,Furniture,Bookshelf,2,89.0,0.0,178.0,126
+50465,2024-03-13,West,Furniture,Bookshelf,2,89.0,0.1,160.2,144
+50093,2024-03-13,West,Furniture,Standing Desk,1,329.0,0.0,329.0,257
+51219,2024-03-13,North,Furniture,Standing Desk,3,329.0,0.2,789.6,81
+50431,2024-03-14,East,Electronics,Keyboard,1,45.0,0.0,45.0,23
+51049,2024-03-14,North,Furniture,Desk Lamp,2,25.0,0.0,50.0,204
+50091,2024-03-14,North,Electronics,Webcam,2,39.0,0.0,78.0,279
+51211,2024-03-15,North,Office Supplies,Planner,2,14.0,0.0,28.0,5
+50892,2024-03-16,West,Electronics,Webcam,1,39.0,0.1,35.1,169
+51436,2024-03-16,East,Office Supplies,Pens (10),11,6.0,0.1,59.4,43
+51431,2024-03-16,West,Office Supplies,Planner,2,14.0,0.1,25.2,261
+50645,2024-03-17,South,Office Supplies,Pens (10),10,6.0,0.0,60.0,154
+50618,2024-03-17,North,Office Supplies,Pens (10),10,6.0,0.0,60.0,131
+51474,2024-03-17,North,Electronics,Keyboard,2,45.0,0.1,81.0,238
+50565,2024-03-17,West,Electronics,Webcam,2,39.0,0.0,78.0,267
+50961,2024-03-17,North,Office Supplies,Planner,8,14.0,0.0,112.0,159
+50536,2024-03-20,East,Office Supplies,Planner,2,14.0,0.0,28.0,100
+50156,2024-03-22,North,Electronics,Laptop Stand,3,29.0,0.0,87.0,22
+50412,2024-03-22,South,Office Supplies,Stapler,10,9.0,0.0,90.0,240
+50584,2024-03-23,East,Electronics,Headphones,3,59.0,0.2,141.6,166
+51236,2024-03-24,East,Office Supplies,Notebook,11,4.5,0.0,49.5,74
+50529,2024-03-24,East,Office Supplies,Planner,3,14.0,0.0,42.0,163
+50826,2024-03-27,North,Furniture,Bookshelf,3,89.0,0.1,240.3,264
+50687,2024-03-28,East,Office Supplies,Pens (10),9,6.0,0.2,43.2,113
+51165,2024-03-28,West,Electronics,Webcam,3,39.0,0.2,93.6,97
+50821,2024-03-29,North,Electronics,Keyboard,2,45.0,0.0,90.0,250
+50228,2024-03-29,North,Furniture,Bookshelf,1,89.0,0.1,80.1,230
+51281,2024-03-30,North,Furniture,Bookshelf,2,89.0,0.0,178.0,68
+51494,2024-04-01,East,Office Supplies,Notebook,11,4.5,0.2,39.6,9
+50613,2024-04-02,West,Office Supplies,Planner,9,14.0,0.0,126.0,62
+50928,2024-04-02,East,Electronics,Laptop Stand,2,29.0,0.1,52.2,260
+50629,2024-04-02,East,Office Supplies,Paper (500),8,7.5,0.0,60.0,40
+50199,2024-04-04,East,Office Supplies,Stapler,1,9.0,0.0,9.0,26
+51330,2024-04-04,North,Office Supplies,Pens (10),3,6.0,0.0,18.0,169
+50333,2024-04-06,East,Electronics,Monitor,2,189.0,0.2,302.4,137
+50782,2024-04-06,South,Office Supplies,Paper (500),6,7.5,0.2,36.0,268
+50411,2024-04-07,North,Furniture,Desk Chair,2,149.0,0.0,298.0,104
+51075,2024-04-07,East,Electronics,Headphones,2,59.0,0.0,118.0,15
+50830,2024-04-08,West,Furniture,Desk Chair,1,149.0,0.0,149.0,176
+51398,2024-04-08,North,Office Supplies,Pens (10),11,6.0,0.1,59.4,217
+50760,2024-04-09,South,Office Supplies,Notebook,2,4.5,0.2,7.2,55
+51375,2024-04-10,West,Office Supplies,Paper (500),3,7.5,0.1,20.25,130
+51458,2024-04-10,East,Furniture,Desk Lamp,3,25.0,0.0,75.0,269
+50053,2024-04-11,South,Electronics,Laptop Stand,1,29.0,0.2,23.2,187
+50500,2024-04-11,West,Furniture,Standing Desk,3,329.0,0.0,987.0,180
+50703,2024-04-11,West,Furniture,Standing Desk,2,329.0,0.0,658.0,119
+50475,2024-04-11,North,Electronics,Keyboard,3,45.0,0.1,121.5,30
+50953,2024-04-11,North,Office Supplies,Paper (500),5,7.5,0.0,37.5,150
+50023,2024-04-11,South,Furniture,Bookshelf,2,89.0,0.0,178.0,33
+50697,2024-04-12,West,Office Supplies,Paper (500),11,7.5,0.0,82.5,271
+50522,2024-04-12,North,Electronics,Headphones,1,59.0,0.0,59.0,298
+50177,2024-04-12,West,Office Supplies,Pens (10),2,6.0,0.1,10.8,281
+50787,2024-04-12,South,Furniture,Bookshelf,2,89.0,0.0,178.0,9
+50633,2024-04-12,South,Electronics,Laptop Stand,1,29.0,0.2,23.2,282
+51284,2024-04-13,West,Office Supplies,Pens (10),7,6.0,0.1,37.8,28
+50927,2024-04-15,West,Office Supplies,Notebook,8,4.5,0.0,36.0,54
+50153,2024-04-16,North,Electronics,Laptop Stand,2,29.0,0.0,58.0,285
+50912,2024-04-17,East,Electronics,Headphones,1,59.0,0.0,59.0,212
+50654,2024-04-17,North,Furniture,Desk Lamp,1,25.0,0.2,20.0,161
+50059,2024-04-18,East,Office Supplies,Paper (500),11,7.5,0.0,82.5,67
+50775,2024-04-18,South,Furniture,Bookshelf,2,89.0,0.1,160.2,299
+51486,2024-04-18,West,Office Supplies,Pens (10),4,6.0,0.0,24.0,254
+51470,2024-04-18,North,Electronics,Webcam,1,39.0,0.0,39.0,11
+51012,2024-04-19,South,Electronics,Webcam,2,39.0,0.0,78.0,103
+51169,2024-04-19,East,Electronics,Headphones,2,59.0,0.0,118.0,183
+50213,2024-04-19,North,Office Supplies,Pens (10),6,6.0,0.0,36.0,86
+50631,2024-04-20,East,Furniture,Desk Lamp,1,25.0,0.1,22.5,224
+50473,2024-04-21,East,Electronics,Laptop Stand,1,29.0,0.1,26.1,202
+51084,2024-04-21,South,Office Supplies,Pens (10),11,6.0,0.2,52.8,130
+51193,2024-04-21,North,Office Supplies,Stapler,4,9.0,0.1,32.4,4
+50275,2024-04-22,North,Electronics,Keyboard,1,45.0,0.1,40.5,123
+50478,2024-04-23,South,Office Supplies,Planner,9,14.0,0.2,100.8,189
+50372,2024-04-24,West,Electronics,Headphones,3,59.0,0.0,177.0,86
+50099,2024-04-24,East,Electronics,Headphones,2,59.0,0.2,94.4,216
+51245,2024-04-25,East,Electronics,Webcam,1,39.0,0.1,35.1,263
+50950,2024-04-25,North,Electronics,Laptop Stand,1,29.0,0.0,29.0,288
+50662,2024-04-25,East,Electronics,Keyboard,1,45.0,0.0,45.0,196
+51405,2024-04-25,East,Office Supplies,Pens (10),8,6.0,0.0,48.0,85
+51391,2024-04-25,South,Office Supplies,Paper (500),9,7.5,0.0,67.5,10
+51063,2024-04-26,West,Electronics,Keyboard,3,45.0,0.1,121.5,174
+50457,2024-04-26,East,Office Supplies,Pens (10),7,6.0,0.0,42.0,118
+50734,2024-04-27,North,Electronics,Monitor,3,189.0,0.1,510.3,62
+50286,2024-04-27,South,Office Supplies,Stapler,1,9.0,0.0,9.0,56
+50496,2024-04-28,West,Electronics,Keyboard,2,45.0,0.1,81.0,78
+51319,2024-04-28,North,Electronics,Laptop Stand,1,29.0,0.0,29.0,220
+51099,2024-04-28,East,Office Supplies,Notebook,5,4.5,0.1,20.25,215
+50169,2024-04-28,North,Electronics,Laptop Stand,1,29.0,0.0,29.0,138
+50108,2024-04-30,North,Office Supplies,Notebook,1,4.5,0.0,4.5,73
+50340,2024-05-01,South,Furniture,Bookshelf,2,89.0,0.1,160.2,264
+50162,2024-05-01,North,Electronics,Headphones,3,59.0,0.0,177.0,170
+50203,2024-05-02,East,Electronics,Laptop Stand,2,29.0,0.0,58.0,45
+50967,2024-05-02,North,Office Supplies,Planner,10,14.0,0.1,126.0,222
+50316,2024-05-03,West,Office Supplies,Notebook,10,4.5,0.0,45.0,132
+50660,2024-05-03,East,Electronics,Monitor,3,189.0,0.0,567.0,105
+50891,2024-05-03,South,Furniture,Desk Chair,1,149.0,0.1,134.1,101
+50466,2024-05-03,North,Furniture,Desk Chair,1,149.0,0.2,119.2,113
+50271,2024-05-03,East,Electronics,Headphones,3,59.0,0.0,177.0,247
+50607,2024-05-03,North,Office Supplies,Notebook,7,4.5,0.0,31.5,44
+50498,2024-05-03,North,Office Supplies,Pens (10),7,6.0,0.1,37.8,171
+51174,2024-05-04,West,Office Supplies,Pens (10),10,6.0,0.0,60.0,215
+50944,2024-05-04,West,Electronics,Headphones,1,59.0,0.0,59.0,210
+51251,2024-05-04,East,Office Supplies,Pens (10),4,6.0,0.1,21.6,33
+50710,2024-05-04,South,Electronics,Laptop Stand,2,29.0,0.0,58.0,96
+51472,2024-05-04,West,Furniture,Desk Chair,1,149.0,0.0,149.0,61
+50806,2024-05-05,South,Electronics,Headphones,1,59.0,0.0,59.0,96
+50098,2024-05-05,South,Furniture,Desk Chair,2,149.0,0.0,298.0,21
+50578,2024-05-05,West,Office Supplies,Notebook,5,4.5,0.0,22.5,289
+50757,2024-05-06,East,Furniture,Desk Chair,3,149.0,0.0,447.0,24
+51196,2024-05-07,North,Office Supplies,Notebook,5,4.5,0.2,18.0,211
+51480,2024-05-07,North,Electronics,Monitor,3,189.0,0.0,567.0,184
+50352,2024-05-07,South,Electronics,Keyboard,2,45.0,0.0,90.0,60
+50963,2024-05-07,East,Electronics,Headphones,3,59.0,0.2,141.6,300
+50815,2024-05-08,North,Electronics,Laptop Stand,1,29.0,0.0,29.0,71
+50682,2024-05-08,East,Office Supplies,Stapler,10,9.0,0.0,90.0,253
+51411,2024-05-08,West,Office Supplies,Planner,1,14.0,0.1,12.6,265
+51163,2024-05-08,West,Electronics,Headphones,3,59.0,0.1,159.3,131
+50458,2024-05-09,North,Office Supplies,Paper (500),6,7.5,0.0,45.0,151
+50046,2024-05-10,West,Electronics,Keyboard,1,45.0,0.2,36.0,144
+50896,2024-05-11,East,Furniture,Standing Desk,2,329.0,0.0,658.0,106
+50357,2024-05-11,North,Office Supplies,Paper (500),3,7.5,0.1,20.25,197
+50987,2024-05-12,North,Furniture,Bookshelf,1,89.0,0.0,89.0,38
+50200,2024-05-14,East,Office Supplies,Notebook,11,4.5,0.0,49.5,220
+50740,2024-05-15,North,Electronics,Headphones,2,59.0,0.0,118.0,284
+51451,2024-05-16,South,Furniture,Desk Chair,1,149.0,0.0,149.0,108
+51216,2024-05-16,East,Furniture,Standing Desk,2,329.0,0.2,526.4,204
+50109,2024-05-16,West,Electronics,Webcam,1,39.0,0.0,39.0,166
+50935,2024-05-16,West,Office Supplies,Paper (500),4,7.5,0.0,30.0,8
+50165,2024-05-16,South,Furniture,Standing Desk,3,329.0,0.0,987.0,243
+51024,2024-05-17,West,Electronics,Monitor,2,189.0,0.2,302.4,183
+50562,2024-05-17,South,Furniture,Standing Desk,2,329.0,0.1,592.2,149
+50848,2024-05-17,East,Electronics,Monitor,1,189.0,0.0,189.0,244
+51128,2024-05-17,South,Office Supplies,Planner,10,14.0,0.2,112.0,71
+50497,2024-05-18,West,Office Supplies,Pens (10),7,6.0,0.0,42.0,227
+51331,2024-05-18,North,Office Supplies,Pens (10),11,6.0,0.0,66.0,126
+50389,2024-05-18,North,Office Supplies,Planner,2,14.0,0.0,28.0,100
+50163,2024-05-19,East,Electronics,Laptop Stand,3,29.0,0.1,78.3,123
+50017,2024-05-19,North,Office Supplies,Notebook,2,4.5,0.2,7.2,202
+51466,2024-05-20,East,Office Supplies,Paper (500),4,7.5,0.0,30.0,54
+51427,2024-05-20,South,Office Supplies,Planner,5,14.0,0.0,70.0,57
+50057,2024-05-21,North,Office Supplies,Pens (10),1,6.0,0.0,6.0,16
+50752,2024-05-21,South,Furniture,Desk Lamp,2,25.0,0.1,45.0,223
+50106,2024-05-22,East,Office Supplies,Stapler,8,9.0,0.0,72.0,81
+50514,2024-05-22,South,Furniture,Bookshelf,1,89.0,0.0,89.0,46
+51300,2024-05-22,South,Furniture,Standing Desk,1,329.0,0.1,296.1,46
+50973,2024-05-22,West,Office Supplies,Notebook,8,4.5,0.0,36.0,83
+51354,2024-05-22,North,Office Supplies,Pens (10),2,6.0,0.2,9.6,237
+50305,2024-05-23,North,Office Supplies,Planner,6,14.0,0.0,84.0,134
+51320,2024-05-25,West,Office Supplies,Stapler,5,9.0,0.0,45.0,4
+51073,2024-05-25,East,Office Supplies,Stapler,4,9.0,0.0,36.0,206
+50160,2024-05-26,East,Office Supplies,Notebook,7,4.5,0.0,31.5,102
+50657,2024-05-27,North,Electronics,Monitor,1,189.0,0.0,189.0,254
+51483,2024-05-27,East,Office Supplies,Paper (500),6,7.5,0.0,45.0,27
+50341,2024-05-28,West,Electronics,Webcam,3,39.0,0.1,105.3,115
+50233,2024-05-28,East,Furniture,Bookshelf,3,89.0,0.0,267.0,38
+50452,2024-05-29,North,Office Supplies,Paper (500),10,7.5,0.1,67.5,17
+50250,2024-05-30,West,Electronics,Keyboard,2,45.0,0.2,72.0,276
+50353,2024-05-30,West,Office Supplies,Pens (10),7,6.0,0.1,37.8,76
+50453,2024-05-31,South,Office Supplies,Paper (500),8,7.5,0.0,60.0,87
+50081,2024-06-01,North,Office Supplies,Stapler,10,9.0,0.0,90.0,221
+51296,2024-06-01,East,Office Supplies,Notebook,2,4.5,0.0,9.0,5
+50810,2024-06-01,East,Furniture,Desk Chair,3,149.0,0.0,447.0,176
+50421,2024-06-02,East,Furniture,Bookshelf,3,89.0,0.0,267.0,100
+50285,2024-06-02,South,Electronics,Laptop Stand,2,29.0,0.0,58.0,127
+51137,2024-06-03,West,Office Supplies,Stapler,11,9.0,0.1,89.1,13
+51173,2024-06-03,East,Office Supplies,Planner,7,14.0,0.2,78.4,247
+50528,2024-06-03,East,Furniture,Desk Chair,3,149.0,0.0,447.0,32
+50911,2024-06-03,North,Electronics,Webcam,3,39.0,0.0,117.0,133
+50918,2024-06-04,West,Electronics,Laptop Stand,1,29.0,0.2,23.2,292
+50898,2024-06-04,East,Electronics,Monitor,2,189.0,0.1,340.2,140
+50488,2024-06-05,West,Office Supplies,Planner,11,14.0,0.0,154.0,266
+50365,2024-06-05,West,Office Supplies,Stapler,4,9.0,0.1,32.4,231
+50566,2024-06-06,South,Office Supplies,Stapler,10,9.0,0.0,90.0,282
+50535,2024-06-06,West,Furniture,Desk Lamp,2,25.0,0.0,50.0,68
+51442,2024-06-07,East,Office Supplies,Notebook,7,4.5,0.2,25.2,5
+51170,2024-06-07,East,Electronics,Laptop Stand,1,29.0,0.1,26.1,182
+50418,2024-06-08,North,Electronics,Webcam,1,39.0,0.0,39.0,210
+51156,2024-06-09,North,Furniture,Desk Chair,2,149.0,0.0,298.0,46
+50100,2024-06-09,North,Furniture,Desk Chair,2,149.0,0.0,298.0,196
+51462,2024-06-09,East,Electronics,Headphones,2,59.0,0.0,118.0,286
+50520,2024-06-09,West,Electronics,Keyboard,2,45.0,0.0,90.0,239
+50074,2024-06-10,North,Office Supplies,Stapler,2,9.0,0.0,18.0,246
+50700,2024-06-10,North,Office Supplies,Paper (500),10,7.5,0.0,75.0,202
+50698,2024-06-11,East,Office Supplies,Pens (10),7,6.0,0.0,42.0,37
+50669,2024-06-11,South,Office Supplies,Pens (10),2,6.0,0.2,9.6,95
+51321,2024-06-12,North,Office Supplies,Planner,11,14.0,0.0,154.0,238
+51143,2024-06-12,West,Electronics,Monitor,3,189.0,0.0,567.0,269
+51482,2024-06-12,East,Furniture,Desk Lamp,2,25.0,0.1,45.0,259
+51464,2024-06-12,East,Electronics,Laptop Stand,1,29.0,0.0,29.0,195
+50877,2024-06-13,East,Office Supplies,Planner,5,14.0,0.1,63.0,220
+50146,2024-06-13,East,Furniture,Desk Chair,3,149.0,0.0,447.0,192
+51270,2024-06-13,North,Furniture,Desk Chair,1,149.0,0.0,149.0,198
+51377,2024-06-13,North,Office Supplies,Pens (10),10,6.0,0.0,60.0,5
+50708,2024-06-14,East,Office Supplies,Paper (500),7,7.5,0.2,42.0,40
+51164,2024-06-14,West,Furniture,Desk Lamp,1,25.0,0.0,25.0,92
+51420,2024-06-14,East,Electronics,Webcam,1,39.0,0.2,31.2,61
+50019,2024-06-15,South,Electronics,Laptop Stand,3,29.0,0.0,87.0,163
+51481,2024-06-17,East,Office Supplies,Notebook,9,4.5,0.2,32.4,219
+51307,2024-06-17,West,Office Supplies,Pens (10),9,6.0,0.0,54.0,61
+50388,2024-06-18,West,Electronics,Headphones,2,59.0,0.0,118.0,153
+50268,2024-06-19,South,Office Supplies,Planner,8,14.0,0.2,89.6,255
+50874,2024-06-20,South,Office Supplies,Paper (500),2,7.5,0.1,13.5,120
+50178,2024-06-20,West,Furniture,Desk Chair,3,149.0,0.2,357.6,271
+50258,2024-06-21,North,Office Supplies,Pens (10),11,6.0,0.2,52.8,32
+51450,2024-06-21,West,Furniture,Standing Desk,2,329.0,0.0,658.0,7
+50568,2024-06-22,North,Office Supplies,Planner,8,14.0,0.2,89.6,289
+51078,2024-06-22,East,Furniture,Bookshelf,3,89.0,0.0,267.0,142
+50737,2024-06-22,South,Office Supplies,Stapler,4,9.0,0.0,36.0,44
+50266,2024-06-23,North,Electronics,Webcam,1,39.0,0.0,39.0,38
+50007,2024-06-23,West,Electronics,Headphones,1,59.0,0.0,59.0,232
+50070,2024-06-23,West,Electronics,Keyboard,2,45.0,0.1,81.0,44
+50674,2024-06-24,East,Furniture,Desk Chair,3,149.0,0.0,447.0,246
+50758,2024-06-24,North,Furniture,Desk Chair,2,149.0,0.2,238.4,92
+50600,2024-06-24,East,Office Supplies,Planner,2,14.0,0.2,22.4,109
+50914,2024-06-24,North,Electronics,Laptop Stand,3,29.0,0.0,87.0,194
+50869,2024-06-24,South,Electronics,Keyboard,3,45.0,0.2,108.0,297
+50375,2024-06-25,South,Office Supplies,Stapler,7,9.0,0.2,50.4,143
+51019,2024-06-25,East,Office Supplies,Paper (500),8,7.5,0.2,48.0,294
+51052,2024-06-25,South,Furniture,Bookshelf,2,89.0,0.0,178.0,258
+51147,2024-06-25,South,Office Supplies,Stapler,3,9.0,0.0,27.0,122
+50355,2024-06-26,North,Office Supplies,Pens (10),8,6.0,0.0,48.0,288
+50510,2024-06-28,South,Electronics,Webcam,2,39.0,0.1,70.2,26
+50052,2024-06-28,East,Electronics,Laptop Stand,1,29.0,0.2,23.2,207
+50623,2024-06-28,North,Electronics,Laptop Stand,1,29.0,0.0,29.0,178
+50212,2024-06-29,East,Office Supplies,Notebook,6,4.5,0.1,24.3,77
+50746,2024-06-30,South,Electronics,Headphones,2,59.0,0.2,94.4,142
+50864,2024-06-30,North,Electronics,Laptop Stand,3,29.0,0.0,87.0,137
+51240,2024-07-01,North,Electronics,Laptop Stand,1,29.0,0.1,26.1,75
+50867,2024-07-02,West,Electronics,Headphones,2,59.0,0.0,118.0,295
+51225,2024-07-02,West,Electronics,Headphones,1,59.0,0.0,59.0,137
+50102,2024-07-04,South,Furniture,Bookshelf,1,89.0,0.0,89.0,66
+50192,2024-07-04,East,Office Supplies,Notebook,8,4.5,0.0,36.0,104
+51213,2024-07-04,West,Furniture,Desk Lamp,2,25.0,0.1,45.0,174
+51301,2024-07-06,East,Furniture,Standing Desk,1,329.0,0.2,263.2,121
+50345,2024-07-06,West,Office Supplies,Planner,7,14.0,0.0,98.0,157
+50323,2024-07-07,South,Electronics,Headphones,2,59.0,0.0,118.0,276
+51295,2024-07-07,North,Furniture,Standing Desk,1,329.0,0.0,329.0,148
+51233,2024-07-09,West,Electronics,Keyboard,1,45.0,0.0,45.0,155
+50107,2024-07-09,East,Office Supplies,Pens (10),11,6.0,0.2,52.8,171
+51110,2024-07-09,East,Electronics,Keyboard,1,45.0,0.0,45.0,54
+50744,2024-07-09,West,Furniture,Bookshelf,1,89.0,0.2,71.2,278
+50227,2024-07-10,West,Office Supplies,Paper (500),10,7.5,0.1,67.5,185
+50628,2024-07-10,South,Furniture,Standing Desk,2,329.0,0.0,658.0,11
+50796,2024-07-11,North,Office Supplies,Planner,4,14.0,0.0,56.0,80
+50324,2024-07-12,East,Electronics,Webcam,2,39.0,0.0,78.0,73
+50347,2024-07-12,North,Electronics,Headphones,1,59.0,0.0,59.0,103
+50279,2024-07-12,East,Furniture,Desk Lamp,1,25.0,0.0,25.0,239
+50671,2024-07-13,West,Office Supplies,Notebook,11,4.5,0.0,49.5,135
+50236,2024-07-13,North,Office Supplies,Pens (10),7,6.0,0.1,37.8,164
+50284,2024-07-13,East,Office Supplies,Pens (10),6,6.0,0.1,32.4,131
+50409,2024-07-13,West,Electronics,Headphones,3,59.0,0.0,177.0,229
+50008,2024-07-14,North,Office Supplies,Notebook,6,4.5,0.0,27.0,76
+50640,2024-07-14,West,Office Supplies,Pens (10),4,6.0,0.0,24.0,197
+51247,2024-07-14,South,Furniture,Desk Chair,3,149.0,0.2,357.6,138
+50047,2024-07-15,North,Electronics,Keyboard,2,45.0,0.0,90.0,128
+50563,2024-07-15,East,Electronics,Headphones,2,59.0,0.1,106.2,156
+50589,2024-07-15,South,Electronics,Headphones,1,59.0,0.2,47.2,180
+51268,2024-07-15,South,Electronics,Keyboard,2,45.0,0.1,81.0,4
+50038,2024-07-16,East,Electronics,Webcam,3,39.0,0.2,93.6,31
+50434,2024-07-17,South,Furniture,Bookshelf,2,89.0,0.0,178.0,86
+50480,2024-07-17,West,Electronics,Keyboard,2,45.0,0.2,72.0,94
+50863,2024-07-17,East,Electronics,Monitor,1,189.0,0.0,189.0,296
+51469,2024-07-17,West,Electronics,Keyboard,1,45.0,0.2,36.0,140
+51302,2024-07-18,East,Electronics,Headphones,2,59.0,0.2,94.4,41
+50571,2024-07-18,East,Office Supplies,Stapler,5,9.0,0.0,45.0,172
+50243,2024-07-18,East,Office Supplies,Pens (10),8,6.0,0.2,38.4,139
+51417,2024-07-19,South,Electronics,Monitor,2,189.0,0.0,378.0,57
+51062,2024-07-19,West,Office Supplies,Stapler,11,9.0,0.0,99.0,183
+50481,2024-07-20,North,Office Supplies,Pens (10),3,6.0,0.0,18.0,191
+50073,2024-07-22,East,Office Supplies,Pens (10),4,6.0,0.0,24.0,201
+51241,2024-07-22,North,Electronics,Laptop Stand,3,29.0,0.0,87.0,172
+51278,2024-07-22,North,Electronics,Headphones,2,59.0,0.1,106.2,27
+50759,2024-07-22,East,Office Supplies,Notebook,6,4.5,0.1,24.3,50
+50854,2024-07-23,West,Furniture,Desk Chair,3,149.0,0.0,447.0,76
+50288,2024-07-24,East,Furniture,Bookshelf,3,89.0,0.2,213.6,233
+50417,2024-07-25,South,Furniture,Bookshelf,1,89.0,0.0,89.0,259
+51134,2024-07-25,West,Electronics,Webcam,2,39.0,0.0,78.0,50
+50653,2024-07-26,East,Electronics,Webcam,1,39.0,0.1,35.1,235
+50880,2024-07-27,South,Furniture,Standing Desk,3,329.0,0.1,888.3,86
+50765,2024-07-27,North,Electronics,Monitor,1,189.0,0.1,170.1,278
+50090,2024-07-27,South,Office Supplies,Notebook,7,4.5,0.0,31.5,88
+51335,2024-07-28,East,Electronics,Monitor,3,189.0,0.0,567.0,284
+50828,2024-07-28,East,Electronics,Laptop Stand,3,29.0,0.0,87.0,133
+50118,2024-07-28,South,Office Supplies,Pens (10),8,6.0,0.0,48.0,25
+51038,2024-07-29,East,Office Supplies,Pens (10),10,6.0,0.0,60.0,110
+50929,2024-07-30,West,Office Supplies,Notebook,3,4.5,0.0,13.5,240
+50761,2024-07-30,West,Office Supplies,Planner,11,14.0,0.0,154.0,102
+50722,2024-07-30,East,Office Supplies,Paper (500),4,7.5,0.1,27.0,123
+51044,2024-07-30,West,Electronics,Laptop Stand,2,29.0,0.2,46.4,177
+50991,2024-07-31,West,Furniture,Standing Desk,1,329.0,0.0,329.0,196
+50135,2024-07-31,East,Electronics,Monitor,2,189.0,0.1,340.2,107
+51056,2024-08-02,North,Furniture,Standing Desk,1,329.0,0.0,329.0,193
+50794,2024-08-02,East,Office Supplies,Paper (500),3,7.5,0.0,22.5,180
+50878,2024-08-02,North,Electronics,Webcam,1,39.0,0.1,35.1,294
+50841,2024-08-02,East,Electronics,Monitor,2,189.0,0.0,378.0,282
+50904,2024-08-02,East,Office Supplies,Paper (500),4,7.5,0.0,30.0,20
+50207,2024-08-03,South,Electronics,Webcam,2,39.0,0.0,78.0,272
+50097,2024-08-04,South,Electronics,Headphones,1,59.0,0.1,53.1,101
+50056,2024-08-04,North,Electronics,Webcam,2,39.0,0.0,78.0,82
+51290,2024-08-04,East,Electronics,Monitor,3,189.0,0.1,510.3,226
+50370,2024-08-04,East,Furniture,Desk Chair,2,149.0,0.2,238.4,212
+50788,2024-08-05,East,Electronics,Keyboard,1,45.0,0.0,45.0,22
+50441,2024-08-06,South,Office Supplies,Paper (500),3,7.5,0.2,18.0,210
+50224,2024-08-07,East,Electronics,Keyboard,1,45.0,0.2,36.0,23
+50321,2024-08-07,East,Office Supplies,Paper (500),7,7.5,0.0,52.5,38
+50171,2024-08-07,West,Electronics,Monitor,2,189.0,0.2,302.4,219
+50069,2024-08-07,South,Office Supplies,Pens (10),6,6.0,0.0,36.0,254
+50780,2024-08-08,South,Office Supplies,Planner,5,14.0,0.0,70.0,145
+50934,2024-08-08,South,Electronics,Keyboard,1,45.0,0.0,45.0,217
+50329,2024-08-08,South,Office Supplies,Planner,4,14.0,0.0,56.0,157
+51047,2024-08-09,East,Electronics,Laptop Stand,3,29.0,0.0,87.0,88
+50576,2024-08-09,South,Office Supplies,Notebook,1,4.5,0.1,4.05,65
+51339,2024-08-09,North,Electronics,Keyboard,3,45.0,0.1,121.5,160
+50066,2024-08-10,East,Office Supplies,Notebook,9,4.5,0.1,36.45,259
+50719,2024-08-11,South,Office Supplies,Paper (500),2,7.5,0.0,15.0,132
+51068,2024-08-12,North,Office Supplies,Pens (10),2,6.0,0.0,12.0,14
+50809,2024-08-12,South,Electronics,Webcam,3,39.0,0.0,117.0,32
+50292,2024-08-12,North,Electronics,Keyboard,2,45.0,0.1,81.0,68
+50598,2024-08-13,East,Furniture,Desk Chair,1,149.0,0.1,134.1,182
+50260,2024-08-13,North,Furniture,Bookshelf,3,89.0,0.0,267.0,143
+50383,2024-08-14,East,Electronics,Monitor,3,189.0,0.0,567.0,206
+51365,2024-08-14,West,Office Supplies,Planner,4,14.0,0.0,56.0,99
+50658,2024-08-15,North,Office Supplies,Paper (500),5,7.5,0.0,37.5,44
+50574,2024-08-15,North,Office Supplies,Notebook,7,4.5,0.1,28.35,142
+50360,2024-08-16,East,Office Supplies,Paper (500),9,7.5,0.0,67.5,236
+50530,2024-08-16,North,Electronics,Laptop Stand,1,29.0,0.1,26.1,176
+50586,2024-08-17,South,Office Supplies,Paper (500),9,7.5,0.2,54.0,211
+51404,2024-08-17,East,Office Supplies,Paper (500),7,7.5,0.0,52.5,191
+50503,2024-08-18,South,Office Supplies,Planner,3,14.0,0.0,42.0,283
+50433,2024-08-18,North,Office Supplies,Paper (500),1,7.5,0.2,6.0,288
+51467,2024-08-21,East,Furniture,Standing Desk,2,329.0,0.1,592.2,120
+50314,2024-08-21,East,Office Supplies,Planner,3,14.0,0.0,42.0,183
+50564,2024-08-21,South,Office Supplies,Paper (500),5,7.5,0.1,33.75,101
+50235,2024-08-22,South,Office Supplies,Notebook,7,4.5,0.0,31.5,260
+50216,2024-08-23,North,Office Supplies,Pens (10),4,6.0,0.0,24.0,83
+50396,2024-08-23,West,Furniture,Desk Lamp,1,25.0,0.0,25.0,146
+50259,2024-08-24,East,Electronics,Laptop Stand,1,29.0,0.2,23.2,217
+50587,2024-08-24,East,Furniture,Desk Chair,1,149.0,0.1,134.1,144
+50085,2024-08-25,East,Electronics,Keyboard,2,45.0,0.0,90.0,277
+51325,2024-08-25,West,Office Supplies,Paper (500),5,7.5,0.0,37.5,15
+51081,2024-08-25,South,Electronics,Headphones,3,59.0,0.2,141.6,211
+50736,2024-08-25,West,Electronics,Webcam,3,39.0,0.0,117.0,73
+51415,2024-08-25,South,Furniture,Standing Desk,3,329.0,0.0,987.0,66
+51090,2024-08-26,North,Office Supplies,Notebook,3,4.5,0.1,12.15,233
+50132,2024-08-26,West,Office Supplies,Paper (500),5,7.5,0.0,37.5,203
+50274,2024-08-26,North,Electronics,Keyboard,3,45.0,0.0,135.0,258
+50596,2024-08-28,North,Office Supplies,Notebook,5,4.5,0.1,20.25,24
+50597,2024-08-29,East,Furniture,Desk Chair,3,149.0,0.0,447.0,68
+50127,2024-08-29,East,Office Supplies,Pens (10),4,6.0,0.1,21.6,265
+51445,2024-08-29,West,Office Supplies,Paper (500),3,7.5,0.1,20.25,20
+50663,2024-08-30,South,Furniture,Desk Chair,3,149.0,0.0,447.0,141
+51441,2024-08-30,North,Office Supplies,Stapler,1,9.0,0.0,9.0,254
+51202,2024-08-31,North,Furniture,Desk Lamp,1,25.0,0.0,25.0,102
+51310,2024-08-31,West,Electronics,Laptop Stand,2,29.0,0.2,46.4,165
+50969,2024-09-01,South,Furniture,Bookshelf,2,89.0,0.0,178.0,31
+51184,2024-09-02,North,Office Supplies,Planner,10,14.0,0.2,112.0,51
+50832,2024-09-03,South,Office Supplies,Stapler,8,9.0,0.1,64.8,195
+50348,2024-09-03,North,Office Supplies,Notebook,1,4.5,0.0,4.5,186
+50239,2024-09-03,East,Electronics,Monitor,3,189.0,0.1,510.3,258
+51060,2024-09-04,East,Office Supplies,Pens (10),9,6.0,0.0,54.0,104
+51267,2024-09-04,South,Office Supplies,Planner,3,14.0,0.0,42.0,291
+50913,2024-09-04,North,Furniture,Desk Chair,3,149.0,0.0,447.0,235
+51348,2024-09-04,West,Office Supplies,Notebook,11,4.5,0.0,49.5,231
+50774,2024-09-05,East,Office Supplies,Planner,1,14.0,0.0,14.0,145
+51176,2024-09-06,South,Office Supplies,Paper (500),9,7.5,0.2,54.0,20
+50538,2024-09-06,West,Furniture,Standing Desk,3,329.0,0.1,888.3,94
+50363,2024-09-06,East,Office Supplies,Paper (500),9,7.5,0.0,67.5,155
+51374,2024-09-06,East,Electronics,Keyboard,2,45.0,0.0,90.0,39
+50829,2024-09-06,North,Office Supplies,Paper (500),4,7.5,0.1,27.0,228
+51141,2024-09-07,North,Office Supplies,Notebook,5,4.5,0.1,20.25,90
+50130,2024-09-07,East,Electronics,Headphones,1,59.0,0.0,59.0,45
+50822,2024-09-08,East,Office Supplies,Planner,5,14.0,0.0,70.0,92
+50054,2024-09-08,North,Electronics,Webcam,1,39.0,0.0,39.0,248
+50903,2024-09-08,North,Office Supplies,Stapler,11,9.0,0.0,99.0,170
+50901,2024-09-08,North,Office Supplies,Planner,11,14.0,0.2,123.2,253
+50936,2024-09-09,North,Electronics,Laptop Stand,1,29.0,0.0,29.0,219
+50868,2024-09-09,East,Office Supplies,Planner,2,14.0,0.0,28.0,146
+51279,2024-09-09,North,Electronics,Laptop Stand,3,29.0,0.0,87.0,202
+50643,2024-09-09,West,Office Supplies,Paper (500),5,7.5,0.1,33.75,246
+50804,2024-09-10,East,Furniture,Standing Desk,2,329.0,0.0,658.0,199
+50063,2024-09-10,West,Office Supplies,Stapler,4,9.0,0.0,36.0,191
+50436,2024-09-10,North,Furniture,Standing Desk,1,329.0,0.0,329.0,239
+50004,2024-09-10,West,Electronics,Keyboard,2,45.0,0.2,72.0,141
+51066,2024-09-10,West,Electronics,Webcam,2,39.0,0.1,70.2,121
+50009,2024-09-10,East,Electronics,Keyboard,2,45.0,0.1,81.0,5
+50263,2024-09-12,North,Furniture,Desk Lamp,1,25.0,0.2,20.0,54
+50791,2024-09-13,East,Electronics,Monitor,1,189.0,0.1,170.1,41
+50220,2024-09-14,North,Electronics,Webcam,1,39.0,0.0,39.0,202
+51376,2024-09-15,South,Office Supplies,Paper (500),9,7.5,0.0,67.5,174
+51158,2024-09-15,East,Furniture,Bookshelf,3,89.0,0.0,267.0,87
+50432,2024-09-15,North,Office Supplies,Paper (500),9,7.5,0.1,60.75,108
+50048,2024-09-16,East,Electronics,Webcam,3,39.0,0.0,117.0,88
+50820,2024-09-16,North,Office Supplies,Stapler,4,9.0,0.0,36.0,54
+50602,2024-09-16,East,Furniture,Desk Lamp,1,25.0,0.2,20.0,204
+51142,2024-09-17,East,Furniture,Bookshelf,2,89.0,0.0,178.0,193
+51065,2024-09-17,North,Furniture,Desk Lamp,2,25.0,0.1,45.0,77
+50767,2024-09-18,East,Furniture,Standing Desk,2,329.0,0.0,658.0,29
+50817,2024-09-18,East,Office Supplies,Planner,2,14.0,0.1,25.2,237
+51105,2024-09-18,North,Furniture,Standing Desk,2,329.0,0.0,658.0,149
+51058,2024-09-18,West,Electronics,Webcam,2,39.0,0.1,70.2,292
+50327,2024-09-19,West,Office Supplies,Stapler,9,9.0,0.1,72.9,39
+50273,2024-09-19,West,Office Supplies,Stapler,8,9.0,0.2,57.6,208
+51419,2024-09-20,East,Office Supplies,Planner,3,14.0,0.0,42.0,270
+50637,2024-09-20,North,Electronics,Keyboard,1,45.0,0.1,40.5,75
+51282,2024-09-21,South,Office Supplies,Stapler,6,9.0,0.0,54.0,42
+50045,2024-09-21,North,Electronics,Webcam,2,39.0,0.0,78.0,85
+50072,2024-09-21,West,Electronics,Headphones,3,59.0,0.1,159.3,167
+50183,2024-09-21,West,Office Supplies,Notebook,5,4.5,0.0,22.5,5
+50374,2024-09-21,South,Office Supplies,Stapler,5,9.0,0.0,45.0,283
+51146,2024-09-22,South,Electronics,Keyboard,3,45.0,0.0,135.0,171
+51337,2024-09-22,South,Electronics,Webcam,1,39.0,0.0,39.0,186
+51332,2024-09-22,West,Furniture,Standing Desk,1,329.0,0.1,296.1,215
+51181,2024-09-22,East,Office Supplies,Pens (10),11,6.0,0.0,66.0,45
+51387,2024-09-24,West,Office Supplies,Planner,9,14.0,0.2,100.8,142
+50726,2024-09-24,East,Office Supplies,Stapler,6,9.0,0.0,54.0,30
+51274,2024-09-25,West,Office Supplies,Planner,1,14.0,0.0,14.0,137
+50755,2024-09-25,North,Office Supplies,Planner,11,14.0,0.2,123.2,269
+51394,2024-09-25,East,Electronics,Headphones,1,59.0,0.0,59.0,58
+50951,2024-09-26,South,Electronics,Laptop Stand,2,29.0,0.0,58.0,185
+50182,2024-09-26,North,Office Supplies,Paper (500),3,7.5,0.2,18.0,61
+51407,2024-09-27,North,Office Supplies,Planner,9,14.0,0.0,126.0,233
+50468,2024-09-27,East,Electronics,Keyboard,1,45.0,0.2,36.0,200
+50461,2024-09-28,South,Office Supplies,Planner,6,14.0,0.0,84.0,300
+50114,2024-09-29,East,Electronics,Laptop Stand,2,29.0,0.0,58.0,64
+51490,2024-09-29,West,Office Supplies,Stapler,1,9.0,0.2,7.2,89
+51192,2024-09-29,West,Electronics,Monitor,2,189.0,0.1,340.2,64
+50159,2024-09-30,South,Office Supplies,Pens (10),9,6.0,0.1,48.6,79
+51459,2024-09-30,North,Electronics,Webcam,2,39.0,0.0,78.0,184
+50902,2024-09-30,North,Office Supplies,Stapler,5,9.0,0.1,40.5,12
+50373,2024-09-30,North,Furniture,Desk Lamp,3,25.0,0.1,67.5,73
+50230,2024-10-01,South,Furniture,Desk Chair,1,149.0,0.0,149.0,8
+51288,2024-10-02,North,Office Supplies,Planner,10,14.0,0.2,112.0,286
+50849,2024-10-04,North,Office Supplies,Stapler,9,9.0,0.1,72.9,254
+50326,2024-10-05,North,Office Supplies,Paper (500),4,7.5,0.0,30.0,278
+51167,2024-10-06,West,Office Supplies,Planner,2,14.0,0.2,22.4,108
+51384,2024-10-06,South,Electronics,Keyboard,3,45.0,0.2,108.0,238
+51418,2024-10-06,East,Office Supplies,Stapler,6,9.0,0.0,54.0,52
+51114,2024-10-06,East,Electronics,Monitor,1,189.0,0.0,189.0,241
+50241,2024-10-07,North,Electronics,Laptop Stand,3,29.0,0.0,87.0,57
+50477,2024-10-07,West,Furniture,Desk Chair,2,149.0,0.0,298.0,79
+51001,2024-10-08,North,Office Supplies,Notebook,8,4.5,0.0,36.0,206
+51023,2024-10-09,East,Furniture,Bookshelf,3,89.0,0.1,240.3,192
+50526,2024-10-10,West,Furniture,Desk Lamp,1,25.0,0.1,22.5,158
+50968,2024-10-10,South,Office Supplies,Paper (500),9,7.5,0.1,60.75,103
+50819,2024-10-11,East,Office Supplies,Planner,4,14.0,0.2,44.8,140
+51175,2024-10-12,South,Furniture,Desk Lamp,3,25.0,0.0,75.0,257
+51345,2024-10-12,East,Office Supplies,Planner,8,14.0,0.0,112.0,232
+51166,2024-10-13,North,Office Supplies,Stapler,7,9.0,0.1,56.7,10
+51016,2024-10-13,North,Office Supplies,Planner,7,14.0,0.0,98.0,217
+51197,2024-10-13,East,Office Supplies,Planner,6,14.0,0.0,84.0,269
+50282,2024-10-13,North,Furniture,Bookshelf,3,89.0,0.0,267.0,253
+50630,2024-10-14,North,Office Supplies,Paper (500),2,7.5,0.2,12.0,17
+50208,2024-10-15,West,Electronics,Monitor,2,189.0,0.2,302.4,227
+50517,2024-10-15,East,Office Supplies,Paper (500),7,7.5,0.1,47.25,247
+50605,2024-10-15,East,Electronics,Laptop Stand,3,29.0,0.0,87.0,281
+50770,2024-10-16,East,Electronics,Monitor,1,189.0,0.0,189.0,236
+51048,2024-10-16,West,Electronics,Headphones,3,59.0,0.1,159.3,283
+50427,2024-10-17,North,Office Supplies,Pens (10),11,6.0,0.2,52.8,235
+50603,2024-10-17,West,Office Supplies,Pens (10),7,6.0,0.0,42.0,287
+50690,2024-10-18,South,Electronics,Monitor,3,189.0,0.1,510.3,169
+50807,2024-10-18,West,Electronics,Webcam,1,39.0,0.0,39.0,83
+50541,2024-10-19,East,Furniture,Desk Lamp,1,25.0,0.2,20.0,9
+51409,2024-10-19,North,Office Supplies,Paper (500),1,7.5,0.2,6.0,130
+50745,2024-10-19,West,Office Supplies,Notebook,9,4.5,0.0,40.5,210
+50544,2024-10-20,East,Office Supplies,Planner,3,14.0,0.0,42.0,100
+50634,2024-10-20,North,Electronics,Webcam,2,39.0,0.0,78.0,61
+50142,2024-10-21,South,Electronics,Monitor,3,189.0,0.0,567.0,128
+50870,2024-10-21,West,Electronics,Monitor,1,189.0,0.0,189.0,268
+50945,2024-10-22,East,Electronics,Monitor,1,189.0,0.0,189.0,81
+50800,2024-10-22,South,Electronics,Laptop Stand,1,29.0,0.0,29.0,17
+51018,2024-10-22,South,Office Supplies,Pens (10),6,6.0,0.0,36.0,292
+50137,2024-10-22,West,Furniture,Standing Desk,2,329.0,0.2,526.4,184
+50766,2024-10-23,North,Office Supplies,Paper (500),4,7.5,0.1,27.0,213
+50454,2024-10-24,West,Office Supplies,Planner,3,14.0,0.0,42.0,2
+50000,2024-10-24,West,Furniture,Bookshelf,1,89.0,0.0,89.0,127
+50715,2024-10-25,East,Furniture,Standing Desk,2,329.0,0.0,658.0,261
+51349,2024-10-26,West,Furniture,Desk Lamp,2,25.0,0.2,40.0,254
+50060,2024-10-26,South,Furniture,Desk Chair,3,149.0,0.0,447.0,24
+50018,2024-10-26,North,Office Supplies,Paper (500),4,7.5,0.0,30.0,130
+50115,2024-10-28,South,Office Supplies,Stapler,9,9.0,0.0,81.0,247
+51430,2024-10-28,North,Office Supplies,Notebook,3,4.5,0.0,13.5,219
+51151,2024-10-28,North,Office Supplies,Stapler,9,9.0,0.0,81.0,289
+50756,2024-10-29,North,Electronics,Keyboard,2,45.0,0.0,90.0,254
+50713,2024-10-30,South,Furniture,Desk Chair,1,149.0,0.0,149.0,279
+50435,2024-10-31,North,Office Supplies,Paper (500),8,7.5,0.0,60.0,24
+50096,2024-10-31,South,Furniture,Standing Desk,3,329.0,0.0,987.0,159
+50147,2024-10-31,East,Furniture,Bookshelf,2,89.0,0.2,142.4,10
+50847,2024-10-31,North,Electronics,Headphones,3,59.0,0.0,177.0,280
+50556,2024-10-31,South,Electronics,Laptop Stand,2,29.0,0.1,52.2,240
+50256,2024-11-01,East,Office Supplies,Notebook,11,4.5,0.0,49.5,102
+51040,2024-11-01,East,Furniture,Desk Chair,1,149.0,0.2,119.2,1
+50299,2024-11-01,North,Electronics,Webcam,1,39.0,0.1,35.1,6
+50186,2024-11-01,West,Office Supplies,Paper (500),1,7.5,0.2,6.0,272
+50367,2024-11-01,North,Electronics,Headphones,1,59.0,0.0,59.0,46
+51037,2024-11-02,West,Electronics,Laptop Stand,1,29.0,0.0,29.0,286
+50483,2024-11-02,West,Electronics,Keyboard,1,45.0,0.0,45.0,48
+50622,2024-11-03,South,Office Supplies,Stapler,4,9.0,0.0,36.0,287
+50180,2024-11-04,South,Office Supplies,Stapler,6,9.0,0.2,43.2,53
+50148,2024-11-05,East,Furniture,Desk Chair,3,149.0,0.0,447.0,192
+50871,2024-11-06,North,Furniture,Desk Chair,3,149.0,0.0,447.0,261
+51323,2024-11-06,South,Electronics,Monitor,2,189.0,0.0,378.0,150
+50125,2024-11-06,East,Office Supplies,Notebook,2,4.5,0.0,9.0,131
+50336,2024-11-07,South,Office Supplies,Paper (500),7,7.5,0.2,42.0,198
+51396,2024-11-07,South,Furniture,Desk Chair,1,149.0,0.0,149.0,262
+51306,2024-11-08,North,Electronics,Webcam,1,39.0,0.0,39.0,286
+50561,2024-11-08,East,Furniture,Desk Chair,2,149.0,0.0,298.0,91
+51368,2024-11-08,West,Electronics,Headphones,2,59.0,0.0,118.0,199
+51256,2024-11-09,East,Office Supplies,Paper (500),8,7.5,0.0,60.0,229
+50455,2024-11-09,South,Office Supplies,Stapler,2,9.0,0.0,18.0,90
+50350,2024-11-09,South,Office Supplies,Planner,11,14.0,0.0,154.0,154
+51123,2024-11-10,North,Electronics,Headphones,1,59.0,0.0,59.0,79
+50075,2024-11-10,North,Electronics,Headphones,2,59.0,0.2,94.4,47
+51153,2024-11-10,East,Electronics,Laptop Stand,3,29.0,0.0,87.0,125
+51112,2024-11-10,North,Office Supplies,Pens (10),4,6.0,0.2,19.2,236
+51217,2024-11-10,West,Office Supplies,Pens (10),1,6.0,0.0,6.0,233
+50397,2024-11-11,East,Office Supplies,Planner,6,14.0,0.0,84.0,93
+51294,2024-11-11,West,Electronics,Monitor,2,189.0,0.1,340.2,63
+51180,2024-11-11,East,Electronics,Headphones,2,59.0,0.1,106.2,14
+50313,2024-11-11,West,Electronics,Monitor,3,189.0,0.0,567.0,236
+51093,2024-11-11,North,Electronics,Keyboard,3,45.0,0.2,108.0,135
+50378,2024-11-12,West,Office Supplies,Stapler,6,9.0,0.1,48.6,250
+51408,2024-11-12,North,Office Supplies,Planner,11,14.0,0.1,138.6,71
+51237,2024-11-12,North,Office Supplies,Pens (10),9,6.0,0.2,43.2,16
+50655,2024-11-12,West,Office Supplies,Stapler,9,9.0,0.0,81.0,182
+50076,2024-11-13,East,Office Supplies,Planner,2,14.0,0.0,28.0,157
+50818,2024-11-13,North,Office Supplies,Notebook,7,4.5,0.0,31.5,117
+51140,2024-11-14,East,Electronics,Laptop Stand,3,29.0,0.0,87.0,25
+50369,2024-11-15,East,Furniture,Standing Desk,3,329.0,0.0,987.0,232
+50030,2024-11-16,North,Office Supplies,Stapler,3,9.0,0.1,24.3,178
+50104,2024-11-16,North,Electronics,Laptop Stand,3,29.0,0.2,69.6,253
+51201,2024-11-16,South,Office Supplies,Planner,5,14.0,0.0,70.0,39
+51029,2024-11-16,South,Office Supplies,Pens (10),1,6.0,0.0,6.0,287
+50771,2024-11-17,South,Office Supplies,Planner,6,14.0,0.1,75.6,215
+50649,2024-11-17,South,Furniture,Desk Lamp,2,25.0,0.2,40.0,236
+50616,2024-11-18,South,Office Supplies,Pens (10),9,6.0,0.0,54.0,240
+51271,2024-11-18,North,Office Supplies,Stapler,1,9.0,0.0,9.0,114
+50762,2024-11-19,North,Office Supplies,Pens (10),3,6.0,0.0,18.0,61
+51186,2024-11-19,North,Electronics,Laptop Stand,3,29.0,0.0,87.0,9
+51050,2024-11-19,North,Electronics,Laptop Stand,1,29.0,0.1,26.1,129
+50283,2024-11-19,North,Furniture,Bookshelf,3,89.0,0.0,267.0,23
+50938,2024-11-19,North,Office Supplies,Pens (10),2,6.0,0.2,9.6,191
+51086,2024-11-19,East,Office Supplies,Notebook,9,4.5,0.2,32.4,203
+50086,2024-11-20,North,Furniture,Desk Lamp,2,25.0,0.1,45.0,260
+50317,2024-11-20,South,Office Supplies,Stapler,8,9.0,0.0,72.0,2
+51421,2024-11-20,West,Office Supplies,Planner,3,14.0,0.0,42.0,131
+50031,2024-11-20,West,Office Supplies,Notebook,6,4.5,0.0,27.0,27
+50651,2024-11-21,North,Office Supplies,Pens (10),11,6.0,0.0,66.0,293
+50037,2024-11-21,West,Furniture,Desk Lamp,3,25.0,0.2,60.0,234
+50965,2024-11-22,North,Office Supplies,Notebook,10,4.5,0.0,45.0,143
+51204,2024-11-23,South,Electronics,Monitor,1,189.0,0.1,170.1,22
+50661,2024-11-24,South,Furniture,Desk Lamp,2,25.0,0.0,50.0,275
+50361,2024-11-24,West,Office Supplies,Stapler,6,9.0,0.1,48.6,112
+51484,2024-11-24,North,Office Supplies,Notebook,2,4.5,0.0,9.0,6
+50006,2024-11-25,North,Furniture,Standing Desk,1,329.0,0.2,263.2,80
+50205,2024-11-25,North,Office Supplies,Paper (500),1,7.5,0.0,7.5,133
+51039,2024-11-25,South,Office Supplies,Notebook,9,4.5,0.1,36.45,187
+51253,2024-11-25,South,Office Supplies,Pens (10),6,6.0,0.0,36.0,289
+51036,2024-11-25,North,Electronics,Laptop Stand,3,29.0,0.1,78.3,171
+50065,2024-11-26,East,Office Supplies,Stapler,4,9.0,0.0,36.0,296
+51041,2024-11-26,East,Office Supplies,Stapler,3,9.0,0.0,27.0,235
+51463,2024-11-26,East,Office Supplies,Paper (500),7,7.5,0.0,52.5,110
+50997,2024-11-26,North,Office Supplies,Pens (10),2,6.0,0.0,12.0,295
+51088,2024-11-26,North,Electronics,Headphones,1,59.0,0.0,59.0,65
+50714,2024-11-27,North,Office Supplies,Notebook,11,4.5,0.0,49.5,179
+50041,2024-11-27,North,Office Supplies,Paper (500),11,7.5,0.1,74.25,139
+50464,2024-11-28,East,Electronics,Webcam,1,39.0,0.0,39.0,96
+51101,2024-11-28,South,Electronics,Laptop Stand,2,29.0,0.2,46.4,45
+50982,2024-11-28,East,Office Supplies,Paper (500),7,7.5,0.0,52.5,191
+50519,2024-11-29,East,Electronics,Headphones,3,59.0,0.2,141.6,57
+50641,2024-11-29,North,Electronics,Headphones,3,59.0,0.0,177.0,226
+50264,2024-11-30,South,Office Supplies,Pens (10),5,6.0,0.0,30.0,161
+50410,2024-12-01,South,Office Supplies,Planner,4,14.0,0.0,56.0,183
+50429,2024-12-01,West,Office Supplies,Paper (500),9,7.5,0.0,67.5,119
+50786,2024-12-01,South,Furniture,Standing Desk,2,329.0,0.1,592.2,7
+51383,2024-12-01,West,Office Supplies,Paper (500),4,7.5,0.0,30.0,273
+50126,2024-12-02,South,Electronics,Monitor,1,189.0,0.0,189.0,101
+50692,2024-12-03,North,Furniture,Standing Desk,1,329.0,0.2,263.2,264
+51393,2024-12-03,South,Electronics,Webcam,2,39.0,0.0,78.0,66
+50278,2024-12-04,West,Electronics,Keyboard,1,45.0,0.0,45.0,233
+51248,2024-12-05,East,Office Supplies,Pens (10),8,6.0,0.2,38.4,60
+50594,2024-12-05,South,Office Supplies,Paper (500),10,7.5,0.0,75.0,250
+51061,2024-12-05,East,Office Supplies,Paper (500),5,7.5,0.2,30.0,187
+50614,2024-12-05,North,Electronics,Headphones,2,59.0,0.0,118.0,83
+51117,2024-12-06,West,Electronics,Monitor,2,189.0,0.2,302.4,234
+50776,2024-12-06,East,Furniture,Standing Desk,2,329.0,0.0,658.0,43
+50888,2024-12-07,West,Electronics,Laptop Stand,3,29.0,0.0,87.0,131
+50407,2024-12-07,North,Electronics,Headphones,3,59.0,0.0,177.0,193
+50648,2024-12-08,South,Furniture,Desk Lamp,2,25.0,0.1,45.0,3
+50232,2024-12-08,North,Furniture,Bookshelf,3,89.0,0.1,240.3,138
+50307,2024-12-09,West,Electronics,Keyboard,2,45.0,0.0,90.0,291
+50875,2024-12-09,North,Office Supplies,Stapler,3,9.0,0.1,24.3,136
+51033,2024-12-09,South,Office Supplies,Stapler,3,9.0,0.0,27.0,102
+50701,2024-12-09,East,Furniture,Standing Desk,1,329.0,0.0,329.0,42
+50077,2024-12-10,West,Electronics,Laptop Stand,2,29.0,0.1,52.2,69
+51457,2024-12-10,East,Electronics,Webcam,2,39.0,0.0,78.0,91
+51182,2024-12-10,East,Electronics,Keyboard,3,45.0,0.0,135.0,250
+50334,2024-12-11,South,Electronics,Keyboard,3,45.0,0.0,135.0,273
+50103,2024-12-12,West,Office Supplies,Notebook,5,4.5,0.0,22.5,142
+50735,2024-12-13,East,Electronics,Webcam,1,39.0,0.0,39.0,272
+50718,2024-12-13,East,Office Supplies,Notebook,3,4.5,0.1,12.15,110
+50460,2024-12-13,North,Office Supplies,Notebook,8,4.5,0.1,32.4,39
+50202,2024-12-14,West,Office Supplies,Pens (10),4,6.0,0.0,24.0,154
+50696,2024-12-15,South,Electronics,Laptop Stand,1,29.0,0.0,29.0,41
+50506,2024-12-16,East,Electronics,Monitor,1,189.0,0.0,189.0,124
+50084,2024-12-16,West,Furniture,Standing Desk,1,329.0,0.0,329.0,86
+50036,2024-12-17,East,Furniture,Standing Desk,3,329.0,0.2,789.6,170
+50943,2024-12-17,North,Electronics,Monitor,1,189.0,0.0,189.0,96
+50798,2024-12-17,West,Electronics,Webcam,1,39.0,0.2,31.2,81
+50575,2024-12-18,East,Office Supplies,Notebook,1,4.5,0.0,4.5,132
+50845,2024-12-18,North,Office Supplies,Paper (500),5,7.5,0.1,33.75,291
+50932,2024-12-18,East,Office Supplies,Paper (500),2,7.5,0.2,12.0,241
+50773,2024-12-18,North,Electronics,Webcam,3,39.0,0.2,93.6,266
+51265,2024-12-19,North,Furniture,Desk Lamp,2,25.0,0.0,50.0,224
+50174,2024-12-19,West,Furniture,Standing Desk,2,329.0,0.2,526.4,211
+50138,2024-12-19,West,Office Supplies,Notebook,1,4.5,0.0,4.5,155
+50330,2024-12-20,North,Office Supplies,Pens (10),8,6.0,0.1,43.2,297
+50862,2024-12-21,North,Electronics,Laptop Stand,3,29.0,0.0,87.0,64
+50393,2024-12-21,West,Office Supplies,Planner,1,14.0,0.2,11.2,231
+51057,2024-12-21,North,Office Supplies,Planner,10,14.0,0.0,140.0,225
+50136,2024-12-21,West,Office Supplies,Planner,11,14.0,0.0,154.0,165
+50003,2024-12-22,East,Electronics,Laptop Stand,3,29.0,0.0,87.0,117
+50338,2024-12-22,East,Furniture,Bookshelf,3,89.0,0.0,267.0,109
+50152,2024-12-22,West,Office Supplies,Notebook,10,4.5,0.1,40.5,291
+51362,2024-12-23,East,Electronics,Laptop Stand,2,29.0,0.2,46.4,61
+50027,2024-12-24,North,Electronics,Headphones,3,59.0,0.0,177.0,229
+51125,2024-12-24,North,Office Supplies,Stapler,9,9.0,0.2,64.8,242
+51280,2024-12-25,North,Furniture,Desk Chair,1,149.0,0.1,134.1,140
+50218,2024-12-25,East,Office Supplies,Stapler,8,9.0,0.0,72.0,221
+50664,2024-12-25,West,Office Supplies,Stapler,6,9.0,0.2,43.2,246
+51326,2024-12-26,East,Electronics,Webcam,2,39.0,0.0,78.0,84
+50050,2024-12-26,East,Furniture,Standing Desk,2,329.0,0.1,592.2,186
+50242,2024-12-27,South,Electronics,Headphones,2,59.0,0.2,94.4,158
+50254,2024-12-29,East,Office Supplies,Planner,10,14.0,0.0,140.0,11
+50962,2024-12-29,East,Office Supplies,Notebook,2,4.5,0.0,9.0,147
+51054,2024-12-31,North,Office Supplies,Pens (10),4,6.0,0.1,21.6,241
+51209,2024-12-31,East,Electronics,Webcam,3,39.0,0.1,105.3,191
+50695,2024-12-31,South,Office Supplies,Stapler,9,9.0,0.0,81.0,127
+51072,2024-12-31,East,Office Supplies,Notebook,8,4.5,0.0,36.0,225
+50825,2024-12-31,North,Furniture,Bookshelf,1,89.0,0.0,89.0,270
+51406,2024-12-31,North,Furniture,Desk Chair,1,149.0,0.0,149.0,164
+50390,2024-12-31,North,Electronics,Monitor,2,189.0,0.2,302.4,71
+51344,2025-01-01,South,Electronics,Headphones,1,59.0,0.0,59.0,53
+50748,2025-01-01,East,Electronics,Webcam,3,39.0,0.0,117.0,226
+51334,2025-01-01,East,Furniture,Desk Chair,3,149.0,0.0,447.0,225
+51223,2025-01-02,East,Furniture,Desk Lamp,1,25.0,0.0,25.0,228
+51177,2025-01-03,North,Office Supplies,Stapler,5,9.0,0.0,45.0,191
+50386,2025-01-05,East,Office Supplies,Paper (500),11,7.5,0.0,82.5,168
+50685,2025-01-05,East,Furniture,Desk Chair,1,149.0,0.1,134.1,106
+51444,2025-01-06,South,Furniture,Desk Chair,1,149.0,0.1,134.1,205
+50297,2025-01-06,South,Electronics,Monitor,2,189.0,0.2,302.4,203
+50837,2025-01-07,South,Electronics,Webcam,2,39.0,0.0,78.0,67
+50167,2025-01-07,East,Electronics,Laptop Stand,1,29.0,0.0,29.0,127
+50211,2025-01-08,South,Electronics,Headphones,1,59.0,0.0,59.0,194
+51478,2025-01-09,West,Electronics,Keyboard,3,45.0,0.1,121.5,229
+51487,2025-01-09,North,Furniture,Desk Lamp,3,25.0,0.0,75.0,280
+50042,2025-01-09,North,Electronics,Headphones,1,59.0,0.2,47.2,34
+50044,2025-01-09,South,Electronics,Keyboard,3,45.0,0.0,135.0,48
+51447,2025-01-10,East,Office Supplies,Stapler,1,9.0,0.1,8.1,11
+50261,2025-01-10,North,Office Supplies,Stapler,7,9.0,0.0,63.0,195
+50985,2025-01-10,West,Electronics,Webcam,2,39.0,0.1,70.2,141
+51092,2025-01-11,East,Electronics,Keyboard,1,45.0,0.1,40.5,41
+50919,2025-01-11,West,Furniture,Desk Lamp,2,25.0,0.0,50.0,107
+50957,2025-01-12,East,Electronics,Keyboard,1,45.0,0.0,45.0,243
+50234,2025-01-12,West,Office Supplies,Pens (10),9,6.0,0.0,54.0,293
+51264,2025-01-13,North,Electronics,Laptop Stand,1,29.0,0.0,29.0,278
+50742,2025-01-14,North,Electronics,Keyboard,1,45.0,0.2,36.0,22
+50155,2025-01-15,North,Office Supplies,Planner,10,14.0,0.0,140.0,30
+51155,2025-01-15,East,Furniture,Standing Desk,3,329.0,0.2,789.6,234
+51144,2025-01-16,East,Electronics,Headphones,2,59.0,0.0,118.0,156
+50975,2025-01-17,South,Electronics,Monitor,2,189.0,0.0,378.0,132
+51250,2025-01-19,North,Office Supplies,Stapler,5,9.0,0.2,36.0,191
+50625,2025-01-19,East,Office Supplies,Notebook,2,4.5,0.2,7.2,197
+51492,2025-01-19,East,Office Supplies,Planner,4,14.0,0.0,56.0,12
+50707,2025-01-20,North,Electronics,Keyboard,1,45.0,0.0,45.0,36
+50793,2025-01-20,South,Office Supplies,Notebook,5,4.5,0.1,20.25,34
+51468,2025-01-21,North,Office Supplies,Pens (10),2,6.0,0.0,12.0,114
+51230,2025-01-21,North,Office Supplies,Planner,10,14.0,0.1,126.0,44
+50401,2025-01-22,East,Electronics,Headphones,1,59.0,0.0,59.0,166
+51234,2025-01-23,East,Office Supplies,Planner,4,14.0,0.0,56.0,89
+50857,2025-01-23,West,Electronics,Laptop Stand,2,29.0,0.0,58.0,225
+51025,2025-01-23,North,Electronics,Monitor,2,189.0,0.0,378.0,169
+50403,2025-01-24,West,Electronics,Laptop Stand,1,29.0,0.0,29.0,95
+50470,2025-01-24,North,Furniture,Desk Chair,3,149.0,0.2,357.6,6
+50294,2025-01-24,South,Furniture,Desk Chair,3,149.0,0.0,447.0,59
+50082,2025-01-24,South,Electronics,Laptop Stand,3,29.0,0.1,78.3,152
+51289,2025-01-25,South,Office Supplies,Pens (10),2,6.0,0.0,12.0,224
+50783,2025-01-25,East,Furniture,Bookshelf,2,89.0,0.0,178.0,129
+50359,2025-01-25,North,Electronics,Monitor,1,189.0,0.0,189.0,291
+50749,2025-01-26,East,Office Supplies,Planner,4,14.0,0.1,50.4,81
+50016,2025-01-27,North,Furniture,Desk Chair,1,149.0,0.2,119.2,215
+51124,2025-01-27,North,Electronics,Laptop Stand,1,29.0,0.0,29.0,112
+50484,2025-01-29,South,Furniture,Desk Lamp,2,25.0,0.0,50.0,220
+50144,2025-01-30,South,Office Supplies,Stapler,11,9.0,0.0,99.0,142
+50970,2025-01-30,East,Office Supplies,Paper (500),9,7.5,0.2,54.0,188
+51205,2025-02-01,East,Electronics,Webcam,2,39.0,0.0,78.0,217
+51379,2025-02-02,North,Electronics,Monitor,3,189.0,0.1,510.3,286
+50789,2025-02-03,West,Electronics,Monitor,2,189.0,0.2,302.4,64
+50406,2025-02-03,North,Furniture,Bookshelf,3,89.0,0.1,240.3,209
+50984,2025-02-05,North,Electronics,Monitor,1,189.0,0.1,170.1,202
+50899,2025-02-05,East,Office Supplies,Notebook,2,4.5,0.0,9.0,57
+50619,2025-02-05,West,Office Supplies,Stapler,8,9.0,0.0,72.0,232
+50295,2025-02-05,South,Furniture,Bookshelf,3,89.0,0.2,213.6,190
+51185,2025-02-06,West,Electronics,Keyboard,3,45.0,0.0,135.0,28
+51358,2025-02-07,East,Office Supplies,Paper (500),9,7.5,0.0,67.5,197
+50110,2025-02-07,North,Furniture,Desk Chair,2,149.0,0.0,298.0,244
+51199,2025-02-08,North,Office Supplies,Notebook,4,4.5,0.0,18.0,267
+51227,2025-02-09,East,Electronics,Headphones,2,59.0,0.2,94.4,209
+51021,2025-02-09,South,Electronics,Webcam,1,39.0,0.0,39.0,51
+51243,2025-02-09,East,Electronics,Monitor,3,189.0,0.1,510.3,222
+50534,2025-02-09,West,Office Supplies,Paper (500),6,7.5,0.1,40.5,290
+50311,2025-02-10,East,Office Supplies,Stapler,11,9.0,0.0,99.0,135
+51221,2025-02-10,West,Office Supplies,Planner,6,14.0,0.1,75.6,143
+50590,2025-02-11,North,Furniture,Desk Chair,1,149.0,0.0,149.0,171
+50861,2025-02-11,West,Furniture,Desk Chair,2,149.0,0.0,298.0,153
+50325,2025-02-12,North,Office Supplies,Stapler,8,9.0,0.0,72.0,173
+50387,2025-02-12,East,Office Supplies,Pens (10),2,6.0,0.0,12.0,175
+50428,2025-02-12,South,Office Supplies,Notebook,2,4.5,0.1,8.1,151
+50380,2025-02-13,East,Office Supplies,Pens (10),2,6.0,0.2,9.6,271
+50805,2025-02-13,East,Electronics,Monitor,1,189.0,0.1,170.1,293
+51465,2025-02-13,North,Electronics,Monitor,3,189.0,0.1,510.3,161
+51314,2025-02-13,North,Furniture,Standing Desk,1,329.0,0.0,329.0,172
+50150,2025-02-13,East,Office Supplies,Pens (10),8,6.0,0.1,43.2,168
+51347,2025-02-14,South,Electronics,Keyboard,1,45.0,0.1,40.5,46
+50781,2025-02-14,North,Office Supplies,Notebook,6,4.5,0.1,24.3,90
+51089,2025-02-14,North,Office Supplies,Paper (500),9,7.5,0.0,67.5,239
+50743,2025-02-16,East,Office Supplies,Planner,11,14.0,0.0,154.0,284
+51428,2025-02-17,South,Electronics,Headphones,2,59.0,0.2,94.4,55
+51434,2025-02-17,North,Office Supplies,Paper (500),9,7.5,0.0,67.5,274
+51460,2025-02-17,South,Office Supplies,Planner,6,14.0,0.2,67.2,133
+51235,2025-02-18,West,Electronics,Laptop Stand,2,29.0,0.0,58.0,70
+50516,2025-02-19,South,Office Supplies,Paper (500),6,7.5,0.0,45.0,38
+50557,2025-02-20,East,Furniture,Desk Lamp,3,25.0,0.1,67.5,102
+50416,2025-02-20,North,Office Supplies,Notebook,8,4.5,0.0,36.0,292
+51046,2025-02-21,South,Electronics,Headphones,1,59.0,0.0,59.0,221
+50666,2025-02-21,East,Electronics,Webcam,1,39.0,0.2,31.2,7
+50824,2025-02-22,South,Office Supplies,Stapler,6,9.0,0.1,48.6,38
+50567,2025-02-22,South,Office Supplies,Pens (10),7,6.0,0.0,42.0,32
+51171,2025-02-22,South,Office Supplies,Pens (10),8,6.0,0.1,43.2,14
+50215,2025-02-22,West,Electronics,Keyboard,3,45.0,0.0,135.0,116
+51188,2025-02-23,West,Electronics,Keyboard,3,45.0,0.1,121.5,232
+50883,2025-02-23,South,Electronics,Headphones,3,59.0,0.1,159.3,132
+50298,2025-02-24,North,Electronics,Keyboard,2,45.0,0.1,81.0,165
+51432,2025-02-24,North,Furniture,Bookshelf,1,89.0,0.0,89.0,235
+50486,2025-02-25,South,Office Supplies,Notebook,5,4.5,0.0,22.5,86
+50647,2025-02-25,West,Office Supplies,Stapler,11,9.0,0.0,99.0,255
+50879,2025-02-27,West,Office Supplies,Pens (10),5,6.0,0.0,30.0,149
+51007,2025-02-27,West,Electronics,Laptop Stand,1,29.0,0.0,29.0,5
+50469,2025-02-28,East,Electronics,Monitor,1,189.0,0.0,189.0,269
+50716,2025-02-28,South,Office Supplies,Pens (10),10,6.0,0.2,48.0,210
+50958,2025-03-01,East,Electronics,Headphones,1,59.0,0.2,47.2,157
+51087,2025-03-01,West,Office Supplies,Pens (10),10,6.0,0.2,48.0,24
+51127,2025-03-02,North,Office Supplies,Paper (500),4,7.5,0.0,30.0,162
+51200,2025-03-02,East,Office Supplies,Stapler,3,9.0,0.1,24.3,58
+51031,2025-03-02,North,Office Supplies,Planner,3,14.0,0.0,42.0,13
+51397,2025-03-03,South,Furniture,Standing Desk,1,329.0,0.1,296.1,64
+50688,2025-03-04,South,Electronics,Headphones,3,59.0,0.2,141.6,21
+51369,2025-03-05,West,Furniture,Bookshelf,2,89.0,0.0,178.0,155
+50442,2025-03-06,North,Electronics,Headphones,2,59.0,0.2,94.4,114
+51203,2025-03-07,South,Furniture,Bookshelf,1,89.0,0.2,71.2,176
+50799,2025-03-07,South,Electronics,Keyboard,1,45.0,0.0,45.0,274
+50430,2025-03-07,West,Electronics,Webcam,3,39.0,0.1,105.3,194
+50763,2025-03-07,North,Electronics,Laptop Stand,3,29.0,0.1,78.3,113
+50527,2025-03-08,South,Office Supplies,Pens (10),10,6.0,0.0,60.0,250
+51030,2025-03-08,South,Office Supplies,Pens (10),5,6.0,0.0,30.0,202
+50884,2025-03-08,East,Electronics,Headphones,3,59.0,0.2,141.6,19
+50122,2025-03-09,North,Electronics,Webcam,3,39.0,0.0,117.0,41
+50089,2025-03-09,East,Furniture,Standing Desk,2,329.0,0.0,658.0,211
+50302,2025-03-09,West,Office Supplies,Planner,11,14.0,0.2,123.2,286
+50731,2025-03-09,West,Electronics,Monitor,1,189.0,0.0,189.0,21
+51120,2025-03-11,East,Office Supplies,Paper (500),9,7.5,0.2,54.0,119
+50579,2025-03-11,East,Office Supplies,Notebook,2,4.5,0.2,7.2,161
+50198,2025-03-11,North,Office Supplies,Notebook,5,4.5,0.0,22.5,215
+51059,2025-03-11,East,Electronics,Headphones,3,59.0,0.0,177.0,182
+51318,2025-03-13,West,Office Supplies,Stapler,8,9.0,0.2,57.6,53
+51305,2025-03-14,South,Office Supplies,Paper (500),7,7.5,0.0,52.5,176
+51157,2025-03-15,South,Electronics,Laptop Stand,3,29.0,0.0,87.0,299
+50095,2025-03-15,West,Furniture,Desk Lamp,1,25.0,0.0,25.0,40
+50585,2025-03-16,West,Electronics,Keyboard,2,45.0,0.0,90.0,265
+50836,2025-03-16,East,Office Supplies,Paper (500),1,7.5,0.0,7.5,50
+50308,2025-03-16,South,Electronics,Webcam,1,39.0,0.0,39.0,122
+51373,2025-03-17,East,Office Supplies,Paper (500),3,7.5,0.0,22.5,43
+50842,2025-03-17,South,Electronics,Monitor,2,189.0,0.0,378.0,232
+51322,2025-03-17,North,Electronics,Keyboard,3,45.0,0.2,108.0,152
+51317,2025-03-19,East,Office Supplies,Notebook,4,4.5,0.0,18.0,6
+51232,2025-03-19,East,Electronics,Webcam,3,39.0,0.0,117.0,103
+51328,2025-03-19,East,Furniture,Desk Chair,3,149.0,0.0,447.0,160
+50508,2025-03-19,South,Electronics,Monitor,1,189.0,0.0,189.0,89
+51380,2025-03-20,South,Office Supplies,Pens (10),1,6.0,0.0,6.0,36
+51067,2025-03-20,North,Electronics,Keyboard,3,45.0,0.0,135.0,1
+51006,2025-03-20,West,Electronics,Webcam,2,39.0,0.0,78.0,31
+50492,2025-03-20,East,Electronics,Monitor,1,189.0,0.0,189.0,174
+50686,2025-03-20,North,Office Supplies,Paper (500),10,7.5,0.0,75.0,72
+50029,2025-03-20,North,Office Supplies,Pens (10),8,6.0,0.0,48.0,237
+50834,2025-03-22,East,Office Supplies,Pens (10),5,6.0,0.1,27.0,127
+51367,2025-03-26,South,Electronics,Headphones,3,59.0,0.0,177.0,2
+50724,2025-03-26,West,Office Supplies,Planner,9,14.0,0.0,126.0,205
+51403,2025-03-27,East,Office Supplies,Planner,6,14.0,0.1,75.6,143
+50067,2025-03-27,West,Furniture,Desk Lamp,2,25.0,0.1,45.0,267
+50092,2025-03-27,North,Office Supplies,Notebook,10,4.5,0.0,45.0,64
+51388,2025-03-28,North,Electronics,Laptop Stand,3,29.0,0.0,87.0,63
+50545,2025-03-28,North,Office Supplies,Paper (500),3,7.5,0.0,22.5,225
+50024,2025-03-29,North,Electronics,Monitor,3,189.0,0.0,567.0,12
+50287,2025-03-30,North,Electronics,Monitor,3,189.0,0.0,567.0,231
+50384,2025-03-30,East,Electronics,Laptop Stand,2,29.0,0.0,58.0,102
+51094,2025-03-31,West,Electronics,Laptop Stand,3,29.0,0.1,78.3,11
+50356,2025-04-01,North,Office Supplies,Stapler,11,9.0,0.0,99.0,157
+50512,2025-04-01,North,Electronics,Keyboard,2,45.0,0.1,81.0,264
+50157,2025-04-01,East,Office Supplies,Planner,10,14.0,0.0,140.0,275
+50382,2025-04-01,West,Office Supplies,Pens (10),8,6.0,0.0,48.0,66
+50548,2025-04-02,South,Electronics,Monitor,3,189.0,0.0,567.0,250
+50293,2025-04-03,West,Furniture,Desk Chair,2,149.0,0.0,298.0,276
+50128,2025-04-03,North,Office Supplies,Planner,4,14.0,0.0,56.0,202
+51346,2025-04-04,North,Office Supplies,Paper (500),7,7.5,0.0,52.5,294
+50814,2025-04-04,North,Electronics,Webcam,3,39.0,0.0,117.0,238
+50080,2025-04-05,South,Office Supplies,Stapler,10,9.0,0.2,72.0,12
+50185,2025-04-05,West,Furniture,Standing Desk,1,329.0,0.0,329.0,245
+51473,2025-04-06,East,Office Supplies,Pens (10),11,6.0,0.0,66.0,179
+50064,2025-04-06,South,Office Supplies,Paper (500),7,7.5,0.0,52.5,170
+50493,2025-04-06,East,Electronics,Keyboard,1,45.0,0.2,36.0,41
+51091,2025-04-07,North,Office Supplies,Pens (10),1,6.0,0.0,6.0,219
+50583,2025-04-08,North,Office Supplies,Planner,7,14.0,0.1,88.2,231
+50555,2025-04-09,East,Electronics,Headphones,3,59.0,0.1,159.3,182
+51111,2025-04-09,North,Electronics,Webcam,1,39.0,0.0,39.0,174
+51497,2025-04-09,East,Electronics,Headphones,2,59.0,0.0,118.0,299
+51351,2025-04-09,East,Furniture,Standing Desk,3,329.0,0.1,888.3,257
+50750,2025-04-09,South,Office Supplies,Paper (500),4,7.5,0.0,30.0,282
+50482,2025-04-10,West,Electronics,Monitor,2,189.0,0.0,378.0,159
+50399,2025-04-10,West,Furniture,Bookshelf,2,89.0,0.1,160.2,284
+50865,2025-04-10,North,Electronics,Headphones,2,59.0,0.0,118.0,242
+50139,2025-04-10,South,Furniture,Standing Desk,2,329.0,0.1,592.2,43
+50704,2025-04-10,South,Electronics,Keyboard,2,45.0,0.0,90.0,60
+50415,2025-04-11,North,Office Supplies,Stapler,9,9.0,0.1,72.9,119
+50923,2025-04-12,West,Electronics,Headphones,3,59.0,0.0,177.0,205
+50058,2025-04-13,West,Office Supplies,Notebook,5,4.5,0.1,20.25,77
+50362,2025-04-13,East,Office Supplies,Planner,6,14.0,0.2,67.2,98
+50339,2025-04-13,West,Furniture,Bookshelf,2,89.0,0.1,160.2,81
+51260,2025-04-16,East,Furniture,Desk Chair,2,149.0,0.0,298.0,116
+50998,2025-04-16,West,Office Supplies,Planner,11,14.0,0.0,154.0,122
+50505,2025-04-16,West,Office Supplies,Notebook,11,4.5,0.0,49.5,11
+50291,2025-04-20,North,Office Supplies,Notebook,4,4.5,0.0,18.0,6
+51477,2025-04-20,East,Office Supplies,Pens (10),11,6.0,0.2,52.8,293
+51489,2025-04-20,West,Electronics,Keyboard,2,45.0,0.0,90.0,91
+51189,2025-04-21,North,Furniture,Bookshelf,1,89.0,0.0,89.0,211
+51291,2025-04-21,North,Electronics,Keyboard,1,45.0,0.1,40.5,219
+50642,2025-04-21,East,Furniture,Desk Chair,3,149.0,0.0,447.0,207
+50639,2025-04-22,East,Electronics,Headphones,1,59.0,0.0,59.0,89
+50595,2025-04-22,East,Furniture,Desk Chair,2,149.0,0.0,298.0,26
+51032,2025-04-23,South,Electronics,Monitor,3,189.0,0.0,567.0,232
+51356,2025-04-23,West,Office Supplies,Stapler,2,9.0,0.2,14.4,44
+50931,2025-04-23,South,Office Supplies,Notebook,7,4.5,0.2,25.2,226
+51043,2025-04-25,North,Office Supplies,Stapler,1,9.0,0.0,9.0,171
+50964,2025-04-27,East,Electronics,Laptop Stand,3,29.0,0.2,69.6,192
+50124,2025-04-27,South,Electronics,Headphones,3,59.0,0.0,177.0,300
+51244,2025-04-29,West,Electronics,Webcam,2,39.0,0.1,70.2,172
+50358,2025-04-29,East,Office Supplies,Stapler,8,9.0,0.1,64.8,245
+50257,2025-04-30,East,Furniture,Standing Desk,2,329.0,0.2,526.4,224
+50886,2025-04-30,South,Office Supplies,Paper (500),10,7.5,0.0,75.0,193
+50101,2025-04-30,North,Office Supplies,Notebook,8,4.5,0.0,36.0,179
+50971,2025-05-01,South,Office Supplies,Planner,10,14.0,0.0,140.0,52
+50055,2025-05-01,East,Electronics,Headphones,1,59.0,0.0,59.0,148
+51499,2025-05-02,South,Furniture,Desk Lamp,2,25.0,0.0,50.0,79
+50225,2025-05-02,East,Office Supplies,Notebook,11,4.5,0.0,49.5,270
+50318,2025-05-03,North,Furniture,Bookshelf,2,89.0,0.0,178.0,225
+50946,2025-05-03,South,Furniture,Desk Chair,1,149.0,0.0,149.0,217
+50301,2025-05-03,South,Electronics,Headphones,3,59.0,0.0,177.0,196
+51080,2025-05-03,East,Electronics,Headphones,3,59.0,0.0,177.0,55
+50166,2025-05-03,West,Electronics,Laptop Stand,2,29.0,0.0,58.0,295
+50223,2025-05-06,West,Electronics,Headphones,2,59.0,0.0,118.0,269
+51303,2025-05-06,South,Office Supplies,Pens (10),3,6.0,0.1,16.2,259
+50728,2025-05-06,North,Electronics,Laptop Stand,3,29.0,0.0,87.0,82
+50652,2025-05-07,North,Office Supplies,Stapler,5,9.0,0.2,36.0,27
+50079,2025-05-09,East,Office Supplies,Pens (10),6,6.0,0.0,36.0,214
+50479,2025-05-09,North,Office Supplies,Paper (500),6,7.5,0.0,45.0,252
+50113,2025-05-09,South,Office Supplies,Planner,5,14.0,0.1,63.0,195
+51082,2025-05-09,West,Electronics,Webcam,3,39.0,0.2,93.6,107
+50601,2025-05-11,East,Furniture,Bookshelf,3,89.0,0.0,267.0,41
+50889,2025-05-11,North,Office Supplies,Pens (10),11,6.0,0.0,66.0,296
+50729,2025-05-11,West,Office Supplies,Planner,4,14.0,0.0,56.0,175
+51297,2025-05-11,South,Electronics,Headphones,3,59.0,0.0,177.0,223
+51183,2025-05-13,South,Electronics,Headphones,2,59.0,0.1,106.2,31
+50593,2025-05-13,South,Electronics,Keyboard,1,45.0,0.0,45.0,232
+51456,2025-05-13,East,Electronics,Laptop Stand,1,29.0,0.1,26.1,191
+51455,2025-05-14,East,Furniture,Desk Chair,1,149.0,0.1,134.1,263
+50119,2025-05-14,East,Electronics,Webcam,2,39.0,0.2,62.4,148
+50280,2025-05-14,South,Furniture,Standing Desk,2,329.0,0.0,658.0,51
+50515,2025-05-14,North,Furniture,Desk Chair,3,149.0,0.0,447.0,33
+50033,2025-05-15,South,Office Supplies,Notebook,8,4.5,0.0,36.0,265
+50994,2025-05-16,North,Office Supplies,Notebook,4,4.5,0.2,14.4,190
+51028,2025-05-17,South,Office Supplies,Planner,9,14.0,0.0,126.0,122
+50013,2025-05-17,East,Electronics,Monitor,3,189.0,0.2,453.6,43
+50487,2025-05-17,North,Office Supplies,Pens (10),3,6.0,0.0,18.0,256
+51496,2025-05-18,East,Office Supplies,Paper (500),2,7.5,0.0,15.0,64
+50402,2025-05-18,North,Electronics,Keyboard,2,45.0,0.0,90.0,38
+51392,2025-05-19,North,Office Supplies,Planner,8,14.0,0.0,112.0,296
+51399,2025-05-20,North,Furniture,Bookshelf,1,89.0,0.0,89.0,80
+50890,2025-05-20,North,Electronics,Monitor,1,189.0,0.0,189.0,147
+50797,2025-05-21,South,Furniture,Desk Lamp,2,25.0,0.2,40.0,242
+51437,2025-05-21,South,Office Supplies,Pens (10),5,6.0,0.0,30.0,225
+51095,2025-05-21,South,Office Supplies,Notebook,7,4.5,0.2,25.2,128
+51262,2025-05-22,South,Furniture,Desk Lamp,1,25.0,0.0,25.0,247
+50022,2025-05-22,North,Electronics,Laptop Stand,2,29.0,0.2,46.4,76
+51218,2025-05-23,North,Office Supplies,Notebook,2,4.5,0.0,9.0,99
+50309,2025-05-23,East,Electronics,Monitor,1,189.0,0.0,189.0,117
+50238,2025-05-24,North,Furniture,Desk Lamp,1,25.0,0.1,22.5,299
+50450,2025-05-24,North,Office Supplies,Stapler,1,9.0,0.1,8.1,221
+50404,2025-05-24,North,Furniture,Desk Lamp,3,25.0,0.1,67.5,50
+50244,2025-05-25,North,Furniture,Bookshelf,1,89.0,0.0,89.0,142
+51190,2025-05-26,West,Electronics,Monitor,1,189.0,0.0,189.0,111
+51359,2025-05-26,West,Electronics,Headphones,3,59.0,0.0,177.0,19
+50032,2025-05-26,North,Office Supplies,Pens (10),5,6.0,0.0,30.0,25
+50161,2025-05-26,North,Office Supplies,Notebook,3,4.5,0.2,10.8,93
+51064,2025-05-27,North,Office Supplies,Notebook,2,4.5,0.2,7.2,124
+51412,2025-05-28,North,Office Supplies,Pens (10),1,6.0,0.0,6.0,294
+50604,2025-05-29,West,Office Supplies,Stapler,8,9.0,0.0,72.0,140
+50181,2025-05-29,South,Furniture,Desk Lamp,3,25.0,0.0,75.0,76
+51273,2025-05-30,East,Office Supplies,Paper (500),5,7.5,0.0,37.5,74
+51149,2025-05-30,East,Office Supplies,Pens (10),10,6.0,0.2,48.0,56
+50143,2025-05-31,South,Office Supplies,Pens (10),1,6.0,0.0,6.0,24
+50711,2025-05-31,South,Office Supplies,Pens (10),2,6.0,0.2,9.6,187
+50554,2025-05-31,North,Electronics,Monitor,3,189.0,0.2,453.6,52
+50195,2025-06-01,West,Office Supplies,Notebook,6,4.5,0.2,21.6,155
+50906,2025-06-02,South,Office Supplies,Planner,3,14.0,0.1,37.8,105
+51276,2025-06-02,North,Electronics,Webcam,3,39.0,0.1,105.3,115
+50754,2025-06-02,South,Office Supplies,Stapler,8,9.0,0.0,72.0,93
+51238,2025-06-03,East,Furniture,Standing Desk,1,329.0,0.2,263.2,219
+50010,2025-06-03,South,Office Supplies,Planner,11,14.0,0.1,138.6,106
+51316,2025-06-03,North,Electronics,Webcam,3,39.0,0.0,117.0,119
+50328,2025-06-03,South,Office Supplies,Planner,10,14.0,0.0,140.0,193
+51390,2025-06-04,South,Office Supplies,Stapler,1,9.0,0.0,9.0,244
+50123,2025-06-04,West,Furniture,Standing Desk,2,329.0,0.0,658.0,265
+51493,2025-06-06,East,Furniture,Bookshelf,1,89.0,0.1,80.1,154
+51138,2025-06-06,East,Office Supplies,Pens (10),5,6.0,0.0,30.0,293
+50176,2025-06-07,North,Furniture,Standing Desk,3,329.0,0.0,987.0,294
+51014,2025-06-09,West,Furniture,Standing Desk,2,329.0,0.0,658.0,188
+50609,2025-06-10,North,Office Supplies,Planner,5,14.0,0.1,63.0,52
+50246,2025-06-10,West,Electronics,Webcam,2,39.0,0.0,78.0,300
+50672,2025-06-11,South,Electronics,Headphones,2,59.0,0.0,118.0,111
+51017,2025-06-11,East,Office Supplies,Planner,1,14.0,0.0,14.0,26
+50851,2025-06-11,West,Office Supplies,Notebook,9,4.5,0.1,36.45,13
+50312,2025-06-11,South,Office Supplies,Pens (10),6,6.0,0.1,32.4,89
+51329,2025-06-12,East,Office Supplies,Notebook,4,4.5,0.1,16.2,66
+50068,2025-06-12,North,Office Supplies,Stapler,5,9.0,0.1,40.5,22
+50149,2025-06-13,West,Electronics,Monitor,3,189.0,0.2,453.6,76
+51051,2025-06-13,East,Electronics,Laptop Stand,2,29.0,0.0,58.0,61
+50840,2025-06-13,West,Furniture,Desk Lamp,3,25.0,0.1,67.5,265
+51077,2025-06-14,North,Office Supplies,Notebook,2,4.5,0.0,9.0,197
+51097,2025-06-15,North,Office Supplies,Pens (10),4,6.0,0.1,21.6,43
+50509,2025-06-16,North,Electronics,Webcam,2,39.0,0.0,78.0,278
+51208,2025-06-17,West,Electronics,Laptop Stand,1,29.0,0.0,29.0,206
+50691,2025-06-18,West,Office Supplies,Pens (10),6,6.0,0.0,36.0,299
+50721,2025-06-18,North,Office Supplies,Paper (500),9,7.5,0.0,67.5,48
+50843,2025-06-19,East,Office Supplies,Paper (500),10,7.5,0.1,67.5,252
+50346,2025-06-19,North,Electronics,Keyboard,1,45.0,0.0,45.0,211
+50573,2025-06-20,North,Office Supplies,Pens (10),5,6.0,0.2,24.0,65
+50502,2025-06-21,East,Office Supplies,Pens (10),7,6.0,0.0,42.0,135
+50376,2025-06-21,North,Office Supplies,Notebook,2,4.5,0.0,9.0,125
+51382,2025-06-21,East,Office Supplies,Stapler,2,9.0,0.0,18.0,283
+50803,2025-06-23,East,Furniture,Desk Lamp,1,25.0,0.0,25.0,73
+51109,2025-06-23,East,Electronics,Monitor,1,189.0,0.2,151.2,31
+51476,2025-06-23,West,Office Supplies,Paper (500),8,7.5,0.0,60.0,165
+50644,2025-06-24,South,Electronics,Webcam,3,39.0,0.2,93.6,281
+50111,2025-06-24,North,Electronics,Monitor,3,189.0,0.0,567.0,295
+50002,2025-06-25,West,Office Supplies,Paper (500),7,7.5,0.0,52.5,270
+50839,2025-06-26,East,Office Supplies,Planner,8,14.0,0.0,112.0,82
+51343,2025-06-26,South,Office Supplies,Paper (500),11,7.5,0.0,82.5,132
+50801,2025-06-26,South,Electronics,Monitor,1,189.0,0.0,189.0,21
+50154,2025-06-26,East,Electronics,Monitor,1,189.0,0.0,189.0,183
+51292,2025-06-27,East,Office Supplies,Paper (500),8,7.5,0.0,60.0,220
+51136,2025-06-28,South,Furniture,Bookshelf,1,89.0,0.0,89.0,284
+51261,2025-06-28,West,Furniture,Desk Lamp,3,25.0,0.0,75.0,55
+51132,2025-06-28,East,Electronics,Headphones,2,59.0,0.1,106.2,150
+50693,2025-06-29,South,Office Supplies,Paper (500),11,7.5,0.2,66.0,222
+50675,2025-06-29,North,Electronics,Headphones,1,59.0,0.0,59.0,198
+50133,2025-06-29,West,Furniture,Desk Chair,3,149.0,0.1,402.3,147
+51275,2025-06-30,East,Furniture,Desk Chair,2,149.0,0.0,298.0,69
+51113,2025-07-01,West,Office Supplies,Stapler,8,9.0,0.0,72.0,260
+51259,2025-07-01,East,Electronics,Headphones,1,59.0,0.0,59.0,259
+50426,2025-07-02,West,Electronics,Webcam,3,39.0,0.0,117.0,99
+50319,2025-07-02,West,Electronics,Webcam,1,39.0,0.0,39.0,96
+51191,2025-07-04,North,Electronics,Headphones,1,59.0,0.0,59.0,64
+51389,2025-07-04,South,Electronics,Webcam,1,39.0,0.0,39.0,37
+51055,2025-07-05,North,Office Supplies,Stapler,10,9.0,0.1,81.0,267
+50894,2025-07-05,West,Office Supplies,Paper (500),3,7.5,0.0,22.5,252
+50572,2025-07-05,East,Office Supplies,Notebook,4,4.5,0.1,16.2,174
+50727,2025-07-05,West,Furniture,Bookshelf,3,89.0,0.2,213.6,221
+50723,2025-07-06,West,Furniture,Standing Desk,2,329.0,0.0,658.0,235
+50277,2025-07-07,West,Office Supplies,Notebook,4,4.5,0.1,16.2,99
+51312,2025-07-07,West,Furniture,Bookshelf,3,89.0,0.1,240.3,176
+50959,2025-07-07,North,Electronics,Keyboard,3,45.0,0.1,121.5,49
+50467,2025-07-08,West,Furniture,Standing Desk,1,329.0,0.2,263.2,143
+50926,2025-07-09,East,Office Supplies,Paper (500),6,7.5,0.1,40.5,16
+50472,2025-07-09,North,Office Supplies,Notebook,1,4.5,0.0,4.5,96
+51071,2025-07-10,East,Office Supplies,Pens (10),9,6.0,0.2,43.2,262
+50196,2025-07-10,North,Office Supplies,Pens (10),8,6.0,0.0,48.0,227
+50188,2025-07-10,West,Furniture,Desk Lamp,1,25.0,0.0,25.0,70
+50344,2025-07-11,North,Electronics,Webcam,2,39.0,0.0,78.0,264
+51009,2025-07-11,East,Office Supplies,Planner,5,14.0,0.1,63.0,115
+50439,2025-07-11,North,Electronics,Keyboard,2,45.0,0.1,81.0,135
+50856,2025-07-11,East,Office Supplies,Pens (10),10,6.0,0.2,48.0,27
+50741,2025-07-11,West,Office Supplies,Stapler,1,9.0,0.0,9.0,56
+50895,2025-07-12,West,Electronics,Monitor,3,189.0,0.2,453.6,260
+50980,2025-07-12,South,Office Supplies,Notebook,1,4.5,0.2,3.6,217
+51410,2025-07-12,West,Office Supplies,Notebook,2,4.5,0.0,9.0,290
+51258,2025-07-13,North,Electronics,Monitor,3,189.0,0.0,567.0,261
+50398,2025-07-14,North,Office Supplies,Paper (500),6,7.5,0.0,45.0,265
+50720,2025-07-14,South,Office Supplies,Pens (10),3,6.0,0.1,16.2,30
+50290,2025-07-14,East,Office Supplies,Pens (10),10,6.0,0.2,48.0,56
+50521,2025-07-14,South,Office Supplies,Paper (500),2,7.5,0.0,15.0,158
+50245,2025-07-14,East,Office Supplies,Paper (500),4,7.5,0.0,30.0,156
+51336,2025-07-15,South,Office Supplies,Pens (10),3,6.0,0.2,14.4,200
+50443,2025-07-16,East,Electronics,Headphones,3,59.0,0.1,159.3,229
+50303,2025-07-17,North,Office Supplies,Planner,2,14.0,0.0,28.0,42
+50659,2025-07-17,South,Electronics,Laptop Stand,2,29.0,0.0,58.0,190
+51119,2025-07-18,West,Office Supplies,Paper (500),10,7.5,0.0,75.0,226
+51287,2025-07-18,East,Electronics,Monitor,3,189.0,0.1,510.3,133
+50501,2025-07-19,East,Office Supplies,Paper (500),3,7.5,0.2,18.0,164
+50490,2025-07-19,North,Office Supplies,Pens (10),5,6.0,0.2,24.0,66
+50702,2025-07-19,North,Office Supplies,Planner,5,14.0,0.1,63.0,57
+50444,2025-07-20,East,Furniture,Desk Chair,2,149.0,0.2,238.4,188
+51122,2025-07-22,West,Office Supplies,Pens (10),3,6.0,0.0,18.0,113
+50425,2025-07-22,East,Furniture,Standing Desk,2,329.0,0.0,658.0,279
+51424,2025-07-22,West,Furniture,Standing Desk,1,329.0,0.0,329.0,31
+50925,2025-07-22,South,Electronics,Keyboard,3,45.0,0.1,121.5,107
+50306,2025-07-23,South,Office Supplies,Stapler,8,9.0,0.2,57.6,48
+51198,2025-07-23,South,Office Supplies,Planner,10,14.0,0.0,140.0,94
+50709,2025-07-24,South,Furniture,Desk Chair,2,149.0,0.0,298.0,147
+50379,2025-07-24,South,Office Supplies,Pens (10),9,6.0,0.0,54.0,136
+50705,2025-07-24,West,Electronics,Headphones,2,59.0,0.1,106.2,140
+50034,2025-07-24,West,Electronics,Webcam,3,39.0,0.2,93.6,174
+50532,2025-07-24,East,Office Supplies,Notebook,10,4.5,0.0,45.0,27
+50204,2025-07-25,East,Office Supplies,Stapler,6,9.0,0.0,54.0,75
+51020,2025-07-26,West,Furniture,Desk Chair,2,149.0,0.0,298.0,299
+50635,2025-07-27,South,Office Supplies,Planner,7,14.0,0.0,98.0,201
+50366,2025-07-27,North,Office Supplies,Notebook,7,4.5,0.2,25.2,66
+50893,2025-07-28,East,Electronics,Webcam,1,39.0,0.0,39.0,93
+51342,2025-07-29,West,Office Supplies,Notebook,4,4.5,0.0,18.0,149
+50129,2025-07-29,West,Electronics,Headphones,2,59.0,0.0,118.0,132
+50852,2025-07-30,South,Office Supplies,Planner,7,14.0,0.0,98.0,296
+50977,2025-08-01,North,Electronics,Laptop Stand,1,29.0,0.0,29.0,18
+50956,2025-08-01,East,Office Supplies,Pens (10),7,6.0,0.2,33.6,107
+50513,2025-08-01,North,Electronics,Webcam,2,39.0,0.1,70.2,193
+50231,2025-08-02,North,Electronics,Monitor,1,189.0,0.2,151.2,202
+50988,2025-08-03,South,Electronics,Keyboard,2,45.0,0.1,81.0,271
+51255,2025-08-04,East,Electronics,Monitor,1,189.0,0.0,189.0,250
+50459,2025-08-05,South,Electronics,Laptop Stand,3,29.0,0.0,87.0,179
+50322,2025-08-05,East,Electronics,Laptop Stand,1,29.0,0.0,29.0,274
+51413,2025-08-05,West,Office Supplies,Planner,10,14.0,0.2,112.0,80
+50210,2025-08-05,East,Electronics,Headphones,2,59.0,0.0,118.0,282
+50440,2025-08-06,East,Electronics,Headphones,2,59.0,0.0,118.0,217
+50281,2025-08-06,West,Office Supplies,Stapler,3,9.0,0.0,27.0,295
+50580,2025-08-07,North,Furniture,Standing Desk,2,329.0,0.0,658.0,43
+50206,2025-08-07,West,Furniture,Standing Desk,2,329.0,0.0,658.0,234
+51034,2025-08-08,South,Electronics,Webcam,1,39.0,0.0,39.0,79
+50915,2025-08-10,South,Office Supplies,Pens (10),9,6.0,0.1,48.6,159
+50448,2025-08-11,West,Furniture,Standing Desk,1,329.0,0.0,329.0,8
+51215,2025-08-11,South,Furniture,Desk Lamp,3,25.0,0.1,67.5,120
+50712,2025-08-11,North,Office Supplies,Stapler,8,9.0,0.1,64.8,275
+50948,2025-08-11,West,Furniture,Desk Chair,3,149.0,0.0,447.0,273
+50343,2025-08-11,East,Furniture,Standing Desk,1,329.0,0.0,329.0,198
+50909,2025-08-13,East,Office Supplies,Paper (500),7,7.5,0.0,52.5,294
+50933,2025-08-13,North,Electronics,Monitor,1,189.0,0.0,189.0,52
+51308,2025-08-14,West,Office Supplies,Stapler,9,9.0,0.0,81.0,279
+51372,2025-08-14,North,Office Supplies,Planner,6,14.0,0.0,84.0,111
+51002,2025-08-16,East,Electronics,Laptop Stand,2,29.0,0.0,58.0,290
+50504,2025-08-16,East,Electronics,Webcam,2,39.0,0.0,78.0,173
+51070,2025-08-17,North,Office Supplies,Stapler,1,9.0,0.0,9.0,88
+50667,2025-08-17,North,Office Supplies,Notebook,5,4.5,0.0,22.5,152
+51414,2025-08-17,East,Electronics,Keyboard,3,45.0,0.0,135.0,231
+50331,2025-08-17,South,Electronics,Monitor,2,189.0,0.2,302.4,190
+50560,2025-08-18,South,Furniture,Desk Lamp,2,25.0,0.0,50.0,126
+50141,2025-08-19,South,Electronics,Laptop Stand,3,29.0,0.1,78.3,1
+51206,2025-08-19,East,Office Supplies,Paper (500),10,7.5,0.2,60.0,185
+51195,2025-08-20,East,Electronics,Headphones,2,59.0,0.0,118.0,250
+50680,2025-08-20,West,Office Supplies,Planner,8,14.0,0.0,112.0,281
+50184,2025-08-21,North,Electronics,Webcam,1,39.0,0.0,39.0,236
+50582,2025-08-21,South,Furniture,Desk Chair,3,149.0,0.0,447.0,81
+50897,2025-08-21,West,Office Supplies,Stapler,2,9.0,0.0,18.0,19
+50121,2025-08-22,West,Office Supplies,Planner,2,14.0,0.0,28.0,223
+50673,2025-08-23,North,Electronics,Laptop Stand,1,29.0,0.0,29.0,51
+50827,2025-08-24,West,Office Supplies,Paper (500),6,7.5,0.0,45.0,220
+50269,2025-08-24,North,Electronics,Monitor,1,189.0,0.2,151.2,205
+51224,2025-08-24,South,Furniture,Bookshelf,1,89.0,0.0,89.0,238
+50833,2025-08-28,West,Electronics,Laptop Stand,1,29.0,0.1,26.1,199
+51010,2025-08-28,North,Office Supplies,Stapler,4,9.0,0.0,36.0,153
+50191,2025-08-30,North,Electronics,Headphones,3,59.0,0.0,177.0,6
+51498,2025-08-30,North,Electronics,Monitor,2,189.0,0.0,378.0,4
+51226,2025-08-30,North,Office Supplies,Stapler,1,9.0,0.0,9.0,250
+51161,2025-08-31,South,Electronics,Monitor,1,189.0,0.0,189.0,285
+50717,2025-08-31,North,Electronics,Laptop Stand,2,29.0,0.2,46.4,6
+50553,2025-09-01,West,Electronics,Webcam,3,39.0,0.2,93.6,300
+50706,2025-09-01,North,Electronics,Headphones,1,59.0,0.0,59.0,95
+51333,2025-09-01,South,Electronics,Keyboard,3,45.0,0.0,135.0,212
+50247,2025-09-01,North,Electronics,Keyboard,1,45.0,0.0,45.0,170
+50974,2025-09-01,South,Office Supplies,Stapler,4,9.0,0.0,36.0,245
+51108,2025-09-02,West,Furniture,Desk Lamp,2,25.0,0.0,50.0,45
+50173,2025-09-02,West,Office Supplies,Stapler,4,9.0,0.0,36.0,9
+50335,2025-09-02,East,Office Supplies,Planner,10,14.0,0.0,140.0,36
+50592,2025-09-02,North,Office Supplies,Stapler,9,9.0,0.0,81.0,142
+51361,2025-09-02,South,Office Supplies,Pens (10),7,6.0,0.1,37.8,79
+51448,2025-09-03,East,Electronics,Keyboard,2,45.0,0.1,81.0,12
+50172,2025-09-03,East,Electronics,Laptop Stand,2,29.0,0.0,58.0,212
+50588,2025-09-03,West,Furniture,Desk Chair,2,149.0,0.2,238.4,75
+50463,2025-09-03,West,Furniture,Desk Lamp,3,25.0,0.2,60.0,45
+50606,2025-09-04,South,Office Supplies,Planner,1,14.0,0.2,11.2,22
+50446,2025-09-04,East,Electronics,Monitor,2,189.0,0.0,378.0,10
+51453,2025-09-04,North,Electronics,Monitor,3,189.0,0.2,453.6,294
+51378,2025-09-05,East,Electronics,Headphones,2,59.0,0.0,118.0,222
+50917,2025-09-05,South,Office Supplies,Pens (10),6,6.0,0.1,32.4,211
+50570,2025-09-06,East,Electronics,Keyboard,2,45.0,0.0,90.0,199
+50116,2025-09-06,South,Electronics,Laptop Stand,2,29.0,0.0,58.0,155
+50947,2025-09-07,North,Office Supplies,Paper (500),8,7.5,0.2,48.0,44
+50777,2025-09-08,North,Furniture,Standing Desk,2,329.0,0.0,658.0,96
+50221,2025-09-08,South,Electronics,Monitor,1,189.0,0.0,189.0,197
+51352,2025-09-10,East,Electronics,Monitor,1,189.0,0.1,170.1,293
+50134,2025-09-10,East,Electronics,Monitor,1,189.0,0.0,189.0,183
+51210,2025-09-10,West,Electronics,Keyboard,1,45.0,0.0,45.0,278
+50315,2025-09-10,North,Electronics,Webcam,1,39.0,0.0,39.0,121
+51363,2025-09-10,North,Electronics,Monitor,1,189.0,0.1,170.1,190
+51083,2025-09-11,East,Electronics,Headphones,2,59.0,0.1,106.2,48
+50088,2025-09-11,North,Furniture,Desk Lamp,1,25.0,0.0,25.0,29
+50451,2025-09-11,North,Electronics,Webcam,1,39.0,0.0,39.0,243
+51440,2025-09-11,South,Office Supplies,Paper (500),5,7.5,0.1,33.75,242
+50368,2025-09-12,North,Electronics,Laptop Stand,2,29.0,0.0,58.0,192
+50558,2025-09-12,North,Office Supplies,Paper (500),10,7.5,0.1,67.5,102
+51443,2025-09-14,East,Electronics,Monitor,1,189.0,0.0,189.0,221
+50035,2025-09-14,East,Electronics,Webcam,3,39.0,0.2,93.6,124
+51207,2025-09-15,West,Electronics,Headphones,3,59.0,0.0,177.0,293
+51371,2025-09-15,West,Electronics,Laptop Stand,1,29.0,0.0,29.0,166
+50591,2025-09-16,East,Office Supplies,Pens (10),7,6.0,0.1,37.8,189
+50632,2025-09-16,South,Office Supplies,Notebook,7,4.5,0.2,25.2,265
+50012,2025-09-16,East,Furniture,Bookshelf,3,89.0,0.0,267.0,103
+50960,2025-09-16,North,Office Supplies,Stapler,7,9.0,0.1,56.7,35
+51116,2025-09-17,North,Electronics,Monitor,3,189.0,0.0,567.0,8
+50533,2025-09-18,North,Electronics,Monitor,3,189.0,0.2,453.6,187
+50855,2025-09-18,East,Office Supplies,Stapler,9,9.0,0.1,72.9,159
+50785,2025-09-18,East,Furniture,Desk Lamp,1,25.0,0.1,22.5,122
+51069,2025-09-19,East,Electronics,Webcam,1,39.0,0.0,39.0,274
+50949,2025-09-19,East,Office Supplies,Planner,6,14.0,0.0,84.0,22
+51133,2025-09-19,East,Electronics,Headphones,3,59.0,0.0,177.0,109
+50489,2025-09-20,East,Furniture,Standing Desk,3,329.0,0.0,987.0,252
+50061,2025-09-20,East,Furniture,Bookshelf,1,89.0,0.1,80.1,126
+50391,2025-09-21,East,Office Supplies,Notebook,10,4.5,0.0,45.0,12
+51222,2025-09-21,East,Office Supplies,Paper (500),7,7.5,0.1,47.25,174
+51011,2025-09-22,South,Electronics,Webcam,1,39.0,0.1,35.1,98
+51454,2025-09-22,East,Office Supplies,Notebook,4,4.5,0.1,16.2,38
+51360,2025-09-22,East,Electronics,Keyboard,1,45.0,0.2,36.0,28
+51053,2025-09-23,East,Electronics,Laptop Stand,2,29.0,0.1,52.2,296
+50684,2025-09-23,West,Office Supplies,Paper (500),10,7.5,0.0,75.0,267
+51385,2025-09-23,North,Office Supplies,Stapler,1,9.0,0.0,9.0,43
+50916,2025-09-23,East,Office Supplies,Paper (500),10,7.5,0.0,75.0,32
+51098,2025-09-25,North,Office Supplies,Planner,8,14.0,0.0,112.0,119
+50772,2025-09-25,North,Electronics,Laptop Stand,1,29.0,0.0,29.0,216
+50078,2025-09-25,West,Office Supplies,Notebook,7,4.5,0.2,25.2,127
+50683,2025-09-25,South,Office Supplies,Notebook,1,4.5,0.1,4.05,11
+50983,2025-09-25,East,Electronics,Webcam,2,39.0,0.2,62.4,10
+51422,2025-09-26,North,Office Supplies,Notebook,9,4.5,0.1,36.45,52
+50237,2025-09-26,East,Electronics,Monitor,3,189.0,0.1,510.3,10
+51027,2025-09-26,North,Electronics,Webcam,2,39.0,0.0,78.0,209
+51154,2025-09-26,North,Office Supplies,Planner,3,14.0,0.1,37.8,189
+50229,2025-09-26,West,Furniture,Desk Lamp,3,25.0,0.0,75.0,224
+50120,2025-09-26,North,Office Supplies,Stapler,8,9.0,0.2,57.6,94
+51386,2025-09-27,East,Furniture,Desk Lamp,3,25.0,0.1,67.5,73
+50364,2025-09-27,North,Furniture,Desk Chair,1,149.0,0.0,149.0,235
+51423,2025-09-28,West,Office Supplies,Paper (500),3,7.5,0.0,22.5,91
+51304,2025-09-29,South,Furniture,Standing Desk,3,329.0,0.2,789.6,167
+50354,2025-09-29,East,Office Supplies,Notebook,5,4.5,0.0,22.5,147
+50608,2025-09-29,West,Electronics,Monitor,2,189.0,0.1,340.2,29
+50784,2025-09-30,South,Office Supplies,Notebook,2,4.5,0.0,9.0,24
+51293,2025-09-30,East,Office Supplies,Stapler,8,9.0,0.1,64.8,238
+50626,2025-09-30,North,Office Supplies,Pens (10),10,6.0,0.0,60.0,52
+51130,2025-10-02,North,Office Supplies,Planner,5,14.0,0.0,70.0,251
+50813,2025-10-04,East,Office Supplies,Stapler,9,9.0,0.0,81.0,28
+50381,2025-10-04,East,Furniture,Desk Lamp,2,25.0,0.2,40.0,246
+50569,2025-10-06,North,Office Supplies,Paper (500),8,7.5,0.2,48.0,289
+51277,2025-10-07,North,Electronics,Webcam,2,39.0,0.1,70.2,221
+51115,2025-10-08,South,Electronics,Keyboard,2,45.0,0.0,90.0,14
+50552,2025-10-08,North,Office Supplies,Planner,3,14.0,0.0,42.0,28
+51429,2025-10-08,East,Office Supplies,Notebook,11,4.5,0.0,49.5,26
+50887,2025-10-10,North,Office Supplies,Notebook,4,4.5,0.2,14.4,293
+50524,2025-10-10,South,Office Supplies,Planner,11,14.0,0.1,138.6,190
+50423,2025-10-11,West,Electronics,Headphones,3,59.0,0.0,177.0,43
+50270,2025-10-11,West,Office Supplies,Notebook,8,4.5,0.0,36.0,34
+50424,2025-10-15,West,Office Supplies,Stapler,6,9.0,0.2,43.2,256
+50420,2025-10-15,East,Office Supplies,Planner,5,14.0,0.1,63.0,106
+50276,2025-10-15,West,Electronics,Headphones,3,59.0,0.0,177.0,282
+51246,2025-10-15,South,Electronics,Webcam,2,39.0,0.0,78.0,131
+51324,2025-10-15,North,Office Supplies,Paper (500),9,7.5,0.0,67.5,12
+50043,2025-10-16,South,Electronics,Webcam,1,39.0,0.0,39.0,174
+50549,2025-10-16,North,Office Supplies,Paper (500),9,7.5,0.2,54.0,295
+50249,2025-10-16,North,Electronics,Monitor,2,189.0,0.0,378.0,212
+50615,2025-10-16,West,Furniture,Desk Chair,3,149.0,0.2,357.6,52
+50193,2025-10-17,East,Furniture,Standing Desk,3,329.0,0.1,888.3,134
+50025,2025-10-17,South,Electronics,Keyboard,3,45.0,0.1,121.5,278
+50732,2025-10-17,East,Electronics,Keyboard,1,45.0,0.0,45.0,60
+50495,2025-10-18,South,Office Supplies,Notebook,3,4.5,0.1,12.15,168
+50332,2025-10-18,East,Office Supplies,Pens (10),10,6.0,0.0,60.0,297
+50612,2025-10-18,West,Electronics,Laptop Stand,3,29.0,0.0,87.0,32
+50337,2025-10-19,South,Office Supplies,Notebook,9,4.5,0.0,40.5,58
+50083,2025-10-20,East,Electronics,Webcam,1,39.0,0.2,31.2,208
+51121,2025-10-20,East,Furniture,Bookshelf,3,89.0,0.1,240.3,47
+51194,2025-10-21,West,Office Supplies,Notebook,8,4.5,0.2,28.8,222
+50422,2025-10-23,South,Office Supplies,Stapler,5,9.0,0.0,45.0,77
+50835,2025-10-23,South,Office Supplies,Paper (500),1,7.5,0.1,6.75,14
+50939,2025-10-23,South,Office Supplies,Stapler,7,9.0,0.0,63.0,86
+50539,2025-10-24,East,Office Supplies,Pens (10),2,6.0,0.0,12.0,230
+50778,2025-10-24,East,Office Supplies,Pens (10),1,6.0,0.2,4.8,138
+50621,2025-10-24,East,Electronics,Monitor,1,189.0,0.2,151.2,264
+51005,2025-10-25,North,Electronics,Laptop Stand,1,29.0,0.1,26.1,157
+50537,2025-10-26,West,Office Supplies,Notebook,4,4.5,0.0,18.0,233
+50523,2025-10-28,East,Furniture,Desk Lamp,3,25.0,0.0,75.0,208
+50996,2025-10-29,West,Electronics,Keyboard,2,45.0,0.2,72.0,23
+51150,2025-10-29,East,Electronics,Monitor,1,189.0,0.0,189.0,72
+50816,2025-10-31,East,Electronics,Webcam,2,39.0,0.2,62.4,153
+50885,2025-11-01,South,Office Supplies,Stapler,9,9.0,0.2,64.8,133
+51311,2025-11-01,South,Office Supplies,Paper (500),3,7.5,0.1,20.25,27
+50542,2025-11-01,East,Electronics,Webcam,3,39.0,0.1,105.3,153
+50955,2025-11-02,South,Furniture,Desk Lamp,3,25.0,0.2,60.0,195
+50151,2025-11-02,East,Electronics,Laptop Stand,3,29.0,0.1,78.3,232
+51100,2025-11-03,West,Office Supplies,Notebook,3,4.5,0.1,12.15,154
+50447,2025-11-03,West,Office Supplies,Notebook,10,4.5,0.0,45.0,129
+50262,2025-11-03,North,Office Supplies,Planner,9,14.0,0.1,113.4,191
+50941,2025-11-04,East,Office Supplies,Stapler,1,9.0,0.0,9.0,150
+50940,2025-11-04,East,Electronics,Webcam,2,39.0,0.0,78.0,291
+50214,2025-11-04,West,Electronics,Headphones,3,59.0,0.0,177.0,31
+50112,2025-11-04,West,Office Supplies,Notebook,5,4.5,0.0,22.5,77
+51139,2025-11-04,West,Office Supplies,Stapler,11,9.0,0.1,89.1,57
+51013,2025-11-04,North,Furniture,Desk Chair,1,149.0,0.2,119.2,115
+50525,2025-11-05,North,Office Supplies,Stapler,3,9.0,0.0,27.0,297
+50131,2025-11-06,North,Office Supplies,Paper (500),4,7.5,0.1,27.0,177
+51263,2025-11-06,South,Office Supplies,Notebook,10,4.5,0.0,45.0,249
+50972,2025-11-06,West,Furniture,Desk Lamp,3,25.0,0.0,75.0,106
+51004,2025-11-06,West,Office Supplies,Stapler,1,9.0,0.0,9.0,7
+50039,2025-11-07,East,Office Supplies,Paper (500),6,7.5,0.2,36.0,199
+51045,2025-11-08,North,Electronics,Laptop Stand,3,29.0,0.0,87.0,159
+50846,2025-11-08,South,Office Supplies,Stapler,2,9.0,0.0,18.0,101
+50976,2025-11-08,East,Office Supplies,Pens (10),4,6.0,0.0,24.0,79
+51079,2025-11-09,North,Electronics,Webcam,1,39.0,0.0,39.0,210
+50507,2025-11-09,East,Office Supplies,Notebook,4,4.5,0.2,14.4,129
+51042,2025-11-09,West,Electronics,Monitor,2,189.0,0.2,302.4,210
+50217,2025-11-10,North,Office Supplies,Pens (10),2,6.0,0.2,9.6,272
+50253,2025-11-10,East,Electronics,Webcam,1,39.0,0.0,39.0,56
+50838,2025-11-10,South,Furniture,Desk Chair,2,149.0,0.0,298.0,15
+50351,2025-11-11,West,Office Supplies,Pens (10),9,6.0,0.2,43.2,231
+51395,2025-11-11,South,Office Supplies,Planner,9,14.0,0.0,126.0,49
+51178,2025-11-12,South,Electronics,Headphones,1,59.0,0.0,59.0,221
+50414,2025-11-12,South,Electronics,Keyboard,3,45.0,0.2,108.0,99
+50289,2025-11-12,South,Office Supplies,Stapler,2,9.0,0.0,18.0,192
+50966,2025-11-12,West,Furniture,Bookshelf,1,89.0,0.0,89.0,221
+51364,2025-11-13,South,Electronics,Headphones,2,59.0,0.0,118.0,28
+50694,2025-11-14,East,Office Supplies,Paper (500),11,7.5,0.1,74.25,118
+50670,2025-11-14,East,Furniture,Bookshelf,1,89.0,0.2,71.2,248
+50924,2025-11-14,North,Office Supplies,Pens (10),3,6.0,0.2,14.4,270
+50995,2025-11-14,North,Furniture,Desk Chair,2,149.0,0.1,268.2,165
+50438,2025-11-15,South,Electronics,Headphones,3,59.0,0.1,159.3,44
+51162,2025-11-15,North,Office Supplies,Paper (500),4,7.5,0.0,30.0,124
+50087,2025-11-16,North,Electronics,Laptop Stand,1,29.0,0.0,29.0,95
+50117,2025-11-17,South,Office Supplies,Paper (500),8,7.5,0.0,60.0,157
+51272,2025-11-17,North,Office Supplies,Pens (10),11,6.0,0.2,52.8,148
+51426,2025-11-18,West,Furniture,Desk Chair,2,149.0,0.0,298.0,69
+50866,2025-11-18,East,Office Supplies,Paper (500),3,7.5,0.2,18.0,6
+50385,2025-11-18,East,Furniture,Standing Desk,1,329.0,0.0,329.0,244
+50445,2025-11-19,East,Electronics,Webcam,3,39.0,0.2,93.6,99
+51452,2025-11-19,South,Electronics,Monitor,3,189.0,0.0,567.0,225
+51433,2025-11-19,South,Office Supplies,Stapler,6,9.0,0.2,43.2,277
+51370,2025-11-19,East,Office Supplies,Paper (500),4,7.5,0.2,24.0,62
+50679,2025-11-20,West,Electronics,Laptop Stand,2,29.0,0.1,52.2,285
+50392,2025-11-20,South,Office Supplies,Stapler,7,9.0,0.0,63.0,97
+50408,2025-11-20,North,Electronics,Headphones,3,59.0,0.0,177.0,224
+50646,2025-11-21,East,Furniture,Desk Chair,1,149.0,0.0,149.0,2
+51229,2025-11-21,South,Office Supplies,Paper (500),4,7.5,0.0,30.0,2
+51131,2025-11-21,North,Furniture,Desk Lamp,2,25.0,0.0,50.0,221
+50937,2025-11-21,East,Office Supplies,Notebook,6,4.5,0.0,27.0,163
+51355,2025-11-22,West,Office Supplies,Pens (10),1,6.0,0.0,6.0,88
+50547,2025-11-22,South,Office Supplies,Planner,4,14.0,0.1,50.4,206
+51485,2025-11-22,West,Furniture,Standing Desk,2,329.0,0.0,658.0,122
+50296,2025-11-22,East,Furniture,Standing Desk,2,329.0,0.0,658.0,259
+51341,2025-11-23,North,Electronics,Headphones,2,59.0,0.0,118.0,42
+51022,2025-11-23,North,Electronics,Laptop Stand,3,29.0,0.1,78.3,182
+51187,2025-11-25,West,Office Supplies,Stapler,11,9.0,0.0,99.0,228
+51135,2025-11-25,East,Electronics,Webcam,3,39.0,0.0,117.0,240
+50189,2025-11-26,North,Electronics,Laptop Stand,3,29.0,0.0,87.0,263
+51172,2025-11-26,East,Electronics,Headphones,3,59.0,0.2,141.6,175
+51096,2025-11-27,North,Office Supplies,Pens (10),5,6.0,0.0,30.0,86
+51435,2025-11-27,West,Electronics,Monitor,3,189.0,0.0,567.0,243
+51249,2025-11-28,West,Office Supplies,Paper (500),4,7.5,0.1,27.0,152
+51104,2025-11-29,North,Electronics,Laptop Stand,1,29.0,0.0,29.0,101
+50747,2025-11-29,South,Office Supplies,Pens (10),2,6.0,0.0,12.0,280
+51103,2025-11-30,East,Furniture,Desk Chair,3,149.0,0.2,357.6,144
+51479,2025-11-30,West,Furniture,Standing Desk,2,329.0,0.0,658.0,127
+50611,2025-12-01,West,Office Supplies,Planner,6,14.0,0.1,75.6,156
+50873,2025-12-01,South,Office Supplies,Planner,10,14.0,0.1,126.0,5
+51076,2025-12-01,North,Electronics,Webcam,1,39.0,0.2,31.2,137
+51269,2025-12-01,West,Electronics,Webcam,1,39.0,0.0,39.0,125
+50831,2025-12-01,South,Office Supplies,Notebook,10,4.5,0.1,40.5,234
+50320,2025-12-02,South,Office Supplies,Notebook,10,4.5,0.0,45.0,207
+51179,2025-12-02,South,Furniture,Desk Chair,3,149.0,0.1,402.3,224
+50808,2025-12-02,South,Furniture,Standing Desk,3,329.0,0.0,987.0,257
+50999,2025-12-02,North,Office Supplies,Planner,2,14.0,0.1,25.2,65
+51106,2025-12-03,East,Office Supplies,Stapler,3,9.0,0.0,27.0,12
+50540,2025-12-04,East,Electronics,Laptop Stand,3,29.0,0.0,87.0,289
+50028,2025-12-04,East,Office Supplies,Notebook,7,4.5,0.0,31.5,106
+50543,2025-12-05,West,Office Supplies,Notebook,1,4.5,0.0,4.5,15
+50905,2025-12-06,North,Office Supplies,Stapler,5,9.0,0.1,40.5,122
+50876,2025-12-06,West,Electronics,Laptop Stand,2,29.0,0.0,58.0,77
+51313,2025-12-06,North,Office Supplies,Planner,1,14.0,0.1,12.6,218
+50094,2025-12-07,West,Electronics,Keyboard,1,45.0,0.0,45.0,226
+51340,2025-12-07,North,Electronics,Laptop Stand,2,29.0,0.2,46.4,259
+50689,2025-12-07,East,Electronics,Keyboard,2,45.0,0.0,90.0,140
+50577,2025-12-08,South,Furniture,Desk Chair,2,149.0,0.1,268.2,115
+50751,2025-12-08,West,Office Supplies,Paper (500),5,7.5,0.2,30.0,285
+50990,2025-12-09,East,Furniture,Desk Chair,1,149.0,0.0,149.0,101
+50049,2025-12-09,East,Electronics,Webcam,2,39.0,0.2,62.4,199
+51416,2025-12-09,North,Office Supplies,Paper (500),2,7.5,0.1,13.5,270
+50051,2025-12-09,North,Furniture,Desk Chair,3,149.0,0.1,402.3,148
+51338,2025-12-10,South,Furniture,Bookshelf,1,89.0,0.1,80.1,212
+50668,2025-12-10,East,Electronics,Headphones,1,59.0,0.2,47.2,72
+50681,2025-12-11,North,Office Supplies,Paper (500),9,7.5,0.0,67.5,281
+50014,2025-12-11,East,Office Supplies,Notebook,3,4.5,0.0,13.5,233
+50011,2025-12-11,East,Electronics,Headphones,3,59.0,0.0,177.0,74
+50753,2025-12-12,West,Electronics,Keyboard,2,45.0,0.0,90.0,99
+51212,2025-12-12,South,Office Supplies,Planner,6,14.0,0.1,75.6,93
+50844,2025-12-12,North,Electronics,Laptop Stand,3,29.0,0.0,87.0,266
+50860,2025-12-12,South,Office Supplies,Paper (500),9,7.5,0.0,67.5,158
+50678,2025-12-13,South,Office Supplies,Stapler,9,9.0,0.0,81.0,112
+51299,2025-12-13,East,Electronics,Headphones,3,59.0,0.0,177.0,149
+50811,2025-12-13,East,Electronics,Headphones,1,59.0,0.0,59.0,295
+50222,2025-12-14,North,Office Supplies,Stapler,4,9.0,0.0,36.0,260
+51381,2025-12-14,South,Office Supplies,Pens (10),3,6.0,0.0,18.0,296
+50226,2025-12-14,South,Office Supplies,Pens (10),8,6.0,0.2,38.4,266
+50405,2025-12-16,South,Office Supplies,Paper (500),2,7.5,0.2,12.0,81
+51159,2025-12-16,East,Electronics,Laptop Stand,3,29.0,0.0,87.0,250
+51242,2025-12-16,South,Office Supplies,Notebook,4,4.5,0.0,18.0,159
+51026,2025-12-16,West,Office Supplies,Planner,3,14.0,0.2,33.6,198
+51471,2025-12-16,West,Furniture,Desk Chair,3,149.0,0.0,447.0,104
+51145,2025-12-16,West,Electronics,Laptop Stand,1,29.0,0.1,26.1,190
+50219,2025-12-16,East,Electronics,Headphones,1,59.0,0.2,47.2,270
+51102,2025-12-16,East,Office Supplies,Planner,5,14.0,0.2,56.0,227
+50040,2025-12-17,North,Electronics,Monitor,3,189.0,0.0,567.0,143
+50992,2025-12-17,East,Furniture,Bookshelf,1,89.0,0.1,80.1,272
+51461,2025-12-17,North,Office Supplies,Paper (500),8,7.5,0.0,60.0,144
+51148,2025-12-17,North,Office Supplies,Paper (500),9,7.5,0.1,60.75,49
+51475,2025-12-17,East,Office Supplies,Notebook,11,4.5,0.0,49.5,267
+51353,2025-12-18,North,Office Supplies,Paper (500),6,7.5,0.0,45.0,35
+50790,2025-12-18,North,Furniture,Standing Desk,2,329.0,0.0,658.0,275
+50859,2025-12-18,North,Office Supplies,Stapler,6,9.0,0.0,54.0,119
+50255,2025-12-19,South,Furniture,Desk Chair,2,149.0,0.0,298.0,65
+51118,2025-12-19,East,Office Supplies,Pens (10),8,6.0,0.1,43.2,149
+50197,2025-12-19,East,Office Supplies,Stapler,11,9.0,0.1,89.1,180
+50485,2025-12-20,North,Electronics,Keyboard,2,45.0,0.0,90.0,145
+51000,2025-12-20,West,Office Supplies,Pens (10),1,6.0,0.0,6.0,197
+51085,2025-12-20,West,Electronics,Laptop Stand,3,29.0,0.2,69.6,163
+50252,2025-12-21,East,Electronics,Webcam,3,39.0,0.2,93.6,163
+50907,2025-12-21,East,Electronics,Keyboard,3,45.0,0.0,135.0,300
+51402,2025-12-22,East,Office Supplies,Notebook,7,4.5,0.0,31.5,39
+51298,2025-12-22,East,Office Supplies,Stapler,2,9.0,0.1,16.2,188
+50930,2025-12-22,East,Electronics,Headphones,2,59.0,0.1,106.2,10
+50342,2025-12-22,East,Electronics,Headphones,1,59.0,0.0,59.0,167
+51257,2025-12-24,East,Electronics,Headphones,1,59.0,0.0,59.0,194
+50769,2025-12-25,East,Electronics,Keyboard,3,45.0,0.1,121.5,151
+50656,2025-12-25,East,Electronics,Headphones,3,59.0,0.0,177.0,127
+51126,2025-12-25,North,Office Supplies,Pens (10),6,6.0,0.2,28.8,208
+50650,2025-12-26,East,Electronics,Monitor,3,189.0,0.0,567.0,178
+50739,2025-12-27,East,Electronics,Headphones,1,59.0,0.0,59.0,231
+51309,2025-12-27,East,Office Supplies,Planner,11,14.0,0.2,123.2,2
+51400,2025-12-30,South,Office Supplies,Notebook,5,4.5,0.2,18.0,14
+50449,2025-12-30,North,Office Supplies,Pens (10),7,6.0,0.0,42.0,178
+50617,2025-12-30,East,Furniture,Desk Chair,3,149.0,0.1,402.3,140
+50005,2025-12-30,West,Electronics,Headphones,1,59.0,0.0,59.0,223
+51003,2025-12-30,East,Office Supplies,Pens (10),1,6.0,0.0,6.0,97
+50979,2025-12-31,East,Office Supplies,Notebook,3,4.5,0.2,10.8,27
+50476,2025-12-31,North,Furniture,Bookshelf,2,89.0,0.0,178.0,27

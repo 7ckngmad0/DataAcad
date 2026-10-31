@@ -1,0 +1,122 @@
+@import 'tailwindcss';
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --font-sans: 'Inter', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  --font-mono: 'JetBrains Mono', ui-monospace, 'Cascadia Code', Consolas, monospace;
+}
+
+:root {
+  color-scheme: light;
+}
+:root.dark {
+  color-scheme: dark;
+}
+
+body {
+  @apply bg-slate-50 text-slate-800 antialiased dark:bg-slate-950 dark:text-slate-200;
+}
+
+/* Cards and controls */
+.card {
+  @apply rounded-2xl border border-slate-200 bg-white shadow-sm dark:border-slate-800 dark:bg-slate-900;
+}
+@utility btn {
+  @apply inline-flex items-center justify-center gap-2 rounded-lg px-3.5 py-2 text-sm font-medium transition focus:outline-none focus-visible:ring-2 focus-visible:ring-indigo-500 disabled:cursor-not-allowed disabled:opacity-50;
+}
+.btn-primary {
+  @apply btn bg-indigo-600 text-white hover:bg-indigo-500;
+}
+.btn-secondary {
+  @apply btn border border-slate-300 bg-white text-slate-700 hover:bg-slate-100 dark:border-slate-700 dark:bg-slate-800 dark:text-slate-200 dark:hover:bg-slate-700;
+}
+.btn-ghost {
+  @apply btn text-slate-600 hover:bg-slate-100 dark:text-slate-300 dark:hover:bg-slate-800;
+}
+.btn-success {
+  @apply btn bg-emerald-600 text-white hover:bg-emerald-500;
+}
+.input {
+  @apply w-full rounded-lg border border-slate-300 bg-white px-3 py-2 text-sm focus:border-indigo-500 focus:ring-2 focus:ring-indigo-500/30 focus:outline-none dark:border-slate-700 dark:bg-slate-800;
+}
+.chip {
+  @apply inline-flex items-center gap-1 rounded-full px-2.5 py-0.5 text-xs font-medium;
+}
+.section-title {
+  @apply mb-3 flex items-center gap-2 text-lg font-semibold text-slate-900 dark:text-white;
+}
+
+/* Markdown content */
+.prose-lesson {
+  @apply leading-relaxed text-slate-700 dark:text-slate-300;
+}
+.prose-lesson > * + * {
+  @apply mt-3;
+}
+.prose-lesson h3 {
+  @apply mt-5 text-base font-semibold text-slate-900 dark:text-white;
+}
+.prose-lesson h4 {
+  @apply mt-4 font-semibold text-slate-900 dark:text-white;
+}
+.prose-lesson ul {
+  @apply list-disc space-y-1 pl-6;
+}
+.prose-lesson ol {
+  @apply list-decimal space-y-1 pl-6;
+}
+.prose-lesson a {
+  @apply text-indigo-600 underline underline-offset-2 dark:text-indigo-400;
+}
+.prose-lesson strong {
+  @apply font-semibold text-slate-900 dark:text-white;
+}
+.prose-lesson :not(pre) > code {
+  @apply rounded bg-slate-100 px-1.5 py-0.5 font-mono text-[0.85em] text-pink-700 dark:bg-slate-800 dark:text-pink-300;
+  overflow-wrap: anywhere; /* long identifiers must not widen the page on phones */
+}
+.prose-lesson pre {
+  @apply overflow-x-auto rounded-xl bg-slate-900 p-4 font-mono text-sm text-slate-100 dark:bg-black/40;
+}
+.prose-lesson blockquote {
+  @apply border-l-4 border-indigo-400 bg-indigo-50 px-4 py-2 text-slate-700 dark:bg-indigo-950/40 dark:text-slate-300;
+}
+.prose-lesson table {
+  @apply w-full border-collapse text-sm;
+}
+.prose-lesson th {
+  @apply border-b border-slate-300 bg-slate-100 px-3 py-2 text-left font-semibold dark:border-slate-700 dark:bg-slate-800;
+}
+.prose-lesson td {
+  @apply border-b border-slate-200 px-3 py-2 dark:border-slate-800;
+}
+.prose-lesson .katex-display {
+  @apply overflow-x-auto overflow-y-hidden py-1;
+}
+
+/* pandas DataFrame HTML output */
+table.df {
+  @apply border-collapse font-mono text-xs;
+}
+table.df th,
+table.df td {
+  @apply border border-slate-200 px-2 py-1 text-right dark:border-slate-700;
+}
+table.df thead th {
+  @apply bg-slate-100 dark:bg-slate-800;
+}
+table.df tbody th {
+  @apply bg-slate-50 dark:bg-slate-900;
+}
+
+.cm-editor {
+  @apply rounded-b-xl;
+}
+.cm-editor.cm-focused {
+  outline: none !important;
+}
+
+input[type='range'] {
+  @apply accent-indigo-600;
+}
